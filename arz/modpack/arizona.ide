@@ -1,0 +1,639 @@
+# accessories.ide	7		95
+# custom_obj.ide	106		63
+# SAMP.ide			196		200
+# vehicles.ide		400		218
+# pubg.ide			614		15
+
+# accessories.ide
+objs
+5381, obj6_watch_1, acsar_tx, 299, 2097284
+5382, obj6_watch_3, acsar_tx, 299, 2097284
+5383, obj6_watch_7, acsar_tx, 299, 2097284
+5384, obj6_watch_4, acsar_tx, 299, 2097284
+5385, obj6_watch_5, acsar_tx, 299, 2097284
+5386, obj6_watch_2, acsar_tx, 299, 2097284
+5387, obj6_watch_6, acsar_tx, 299, 2097284
+5388, obj6_headp_1, acsar_tx, 299, 2097284
+5389, obj6_headp_2, acsar_tx, 299, 2097284
+5683, obj6_headp_4, acsar_tx, 299, 2097284
+5684, obj6_headp_3, acsar_tx, 299, 2097284
+5685, obj6_cap_1, acsar_tx, 299, 2097284
+5686, obj6_cap_2, acsar_tx, 299, 2097284
+5687, obj6_cap_3, acsar_tx, 299, 2097284
+5688, obj6_cap_4, acsar_tx, 299, 2097284
+5689, obj6_cap_5, acsar_tx, 299, 2097284
+5690, obj6_mask_1, acsar_tx, 299, 2097284
+5691, obj6_mask_2, acsar_tx, 299, 2097284
+5692, obj6_mask_3, acsar_tx, 299, 2097284
+5693, obj6_mask_4, acsar_tx, 299, 2097284
+5694, obj6_mask_5, acsar_tx, 299, 2097284
+5695, obj6_helmet_1, acsar_tx, 299, 2097284
+5696, obj6_helmet_3, acsar_tx, 299, 2097284
+5697, obj6_helmet_2, acsar_tx, 299, 2097284
+5698, obj6_helmet_4, acsar_tx, 299, 2097284
+5699, obj6_hat_1, acsar_tx, 299, 2097284
+5700, obj6_hat_2, acsar_tx, 299, 2097284
+5701, obj6_hat_3, acsar_tx, 299, 2097284
+5702, obj6_hat_4, acsar_tx, 299, 2097284
+6011, obj6_hat_5, acsar_tx, 299, 2097284
+6012, obj6_bikeback_1, acsar_tx, 299, 2097284
+6013, obj7_delta_backp_1, acsar_tx, 299, 2097284
+12634, obj10_backp_1, acsar_tx, 300, 2097284
+12635, obj10_backp_2, acsar_tx, 300, 2097284
+12636, obj10_helmet_1, acsar_tx, 300, 2097284
+12637, obj10_helmet_2, acsar_tx, 300, 2097284
+12638, obj10_helmet_3, acsar_tx, 300, 2097284
+12639, obj10_helmet_4, acsar_tx, 300, 2097284
+12640, obj10_helmet_5, acsar_tx, 300, 2097284
+12641, obj10_mask_1, acsar_tx, 300, 2097284
+12642, obj10_mask_2, acsar_tx, 300, 2097284
+12643, obj10_mask_2a, acsar_tx, 300, 2097284
+12644, obj10_mask_2b, acsar_tx, 300, 2097284
+12645, obj10_mask_3, acsar_tx, 300, 2097284
+12646, obj10_sword_1, acsar_tx, 300, 2097284
+12647, obj10_wings_1, acsar_tx, 300, 2097284
+12648, obj10_wings_1a, acsar_tx, 300, 2097284
+12649, obj10_wings_1b, acsar_tx, 300, 2097284
+12650, obj10_wings_1c, acsar_tx, 300, 2097284
+12651, obj10_wings_1d, acsar_tx, 300, 2097284
+12652, obj12_pickaxe_1, acsar_tx, 300, 2097284
+12653, obj12_rake_1, acsar_tx, 300, 2097284
+12654, obj15_stick_1, acs_obj_TXD, 299, 2097284
+12655, obj15_hat_1, acs_obj_TXD, 299, 2097284 
+12656, obj15_hat_2, acs_obj_TXD, 299, 2097284
+12657, obj15_mask_1, acs_obj_TXD, 299, 2097284
+12658, obj15_sword_1, acs_obj_TXD, 299, 2097284
+12659, obj15_wings_1, acs_obj_TXD, 299, 2097284
+12660, obj15_hat_3, acs_obj_TXD, 299, 2097284
+12661, obj15_bow_1, acs_obj_TXD, 299, 2097284
+12662, obj15_helmet_1, acs_obj_TXD, 299, 2097284
+12663, obj15_helmet_2, acs_obj_TXD, 299, 2097284
+12664, obj15_vest_1, acs_obj_TXD, 299, 2097284
+12665, obj15_wings_2d, acs_obj_TXD, 299, 2097284
+12666, obj15_wings_2d001, acs_obj_TXD, 299, 2097284
+12667, obj15_stick_2N, acs_obj_TXD, 299, 2097284
+12668, obj15_vest_1R, acs_obj_TXD, 299, 2097284
+12669, obj15_vest_1GS, acs_obj_TXD, 299, 2097284
+12672, obj18_armor_1, obj18TXD, 299, 2097284
+12673, obj18_axe_1, obj18TXD, 299, 2097284
+12674, obj18_backp_1, obj18TXD, 299, 2097284
+12675, obj18_coat_1, obj18TXD, 299, 2097284
+12676, obj18_glove_1, obj18TXD, 299, 2097284
+12677, obj18_glove_r_2, obj18TXD, 299, 2097284
+12678, obj18_hammer_1, obj18TXD, 299, 2097284
+12679, obj18_helmet_1, obj18TXD, 299, 2097284
+12680, obj18_helmet_2, obj18TXD, 299, 2097284
+12681, obj18_hook_1, obj18TXD, 299, 2097284
+12682, obj18_lsaber_1, obj18TXD, 299, 2097284
+12683, obj18_mask_1, obj18TXD, 299, 2097284
+12684, obj18_shield_1, obj18TXD, 299, 2097284
+12685, obj18_skate_1, obj18TXD, 299, 2097284
+12686, obj18_stick_1, obj18TXD, 299, 2097284
+12687, obj18_stick_2, obj18TXD, 299, 2097284
+12688, obj18_stick_3, obj18TXD, 299, 2097284
+12689, obj17_backp_1, obj18TXD, 299, 2097284
+12690, obj17_helmet_1, obj18TXD, 299, 2097284
+12691, obj17_helmet_2, obj18TXD, 299, 2097284
+12692, obj17_helmet_3, obj18TXD, 299, 2097284
+12693, obj17_mask_1, obj18TXD, 299, 2097284
+12694, obj17_mask_2, obj18TXD, 299, 2097284
+12695, obj17_mask_3, obj18TXD, 299, 2097284
+12696, obj17_mask_4, obj18TXD, 299, 2097284
+12697, obj17_mask_5, obj18TXD, 299, 2097284
+14766, car_box_2, car_box_2, 299, 2097284
+6254, obj25_swimb_l_1, txd_accsfish, 200, 0
+6258, obj25_swimb_r_1, txd_accsfish, 200, 0
+6259, obj25_wrist_l_1, txd_accsfish, 200, 0
+6260, obj25_wrist_r_1, txd_accsfish, 200, 0
+6261, obj25_gunback_1, txd_accsfish, 200, 2097284
+6262, obj25_backp_1, txd_accsfish, 200, 0
+6263, obj25_sword_1, txd_accsfish, 200, 2097284
+6264, obj25_necklace_1, txd_accsfish, 200, 2097284
+6265, obj25_vest_1, txd_accsfish, 200, 0
+6266, obj25_belt_1, txd_accsfish, 200, 2097284
+6267, obj25_divemask_1, txd_accsfish, 200, 2097284
+6268, obj25_pirhat_1, txd_accsfish, 200, 2097284
+6269, obj25_pircoat_1, txd_accsfish, 200, 2097284
+6270, obj25_shield_1, txd_accsfish, 200, 0
+6271, obj25_scullmask_1, txd_accsfish, 200, 2097284
+6272, obj25_backp_2, txd_accsfish, 200, 2097284
+6273, obj26_gravgun_1, txd_accsoil, 200, 2097284
+6274, obj26_glasses_1, txd_accsoil, 200, 2097284
+6275, obj26_shocker_1, txd_accsoil, 200, 0
+6276, obj26_helmet_1, txd_accsoil, 200, 2097284
+6277, obj26_handsword_1, txd_accsoil, 200, 0
+6278, obj26_backp_1, txd_accsoil, 200, 0
+6279, obj26_axe_1, txd_accsoil, 200, 2097284
+end
+
+# custom_obj.ide
+objs
+12534, icCARBON_RING, ictun, 300, 0
+12535, icCARBON_TWO, ictun, 300, 0
+12536, icCURSE, ictun, 300, 0
+12537, icDAYTONA, ictun, 300, 0
+12538, icDOUBLE-V, ictun, 300, 0
+12539, icDUCKTAIL, ictun, 300, 0
+12540, icFOUR-SLOT, ictun, 300, 0
+12541, icGRADIENT_STOCK, ictun, 300, 0
+12542, icGRADIENT_TWO, ictun, 300, 0
+12543, icGRID, ictun, 300, 0
+12544, icREAPER, ictun, 300, 0
+12545, icSPEEDLINE, ictun, 300, 0
+12546, icSTOCK_BONNET, ictun, 300, 0
+12547, icSTOCK_SPL, ictun, 300, 0
+12548, icTREMOR, ictun, 300, 0
+12549, icTWISTER, ictun, 300, 0
+12550, tunning_0000, tunning_tex, 128, 0
+12551, tunning_0001, tunning_tex, 128, 0
+12552, tunning_0002, tunning_tex, 128, 0
+12553, tunning_0003, tunning_tex, 128, 0
+12554, tunning_0004, tunning_tex, 128, 0
+12555, tunning_0005, tunning_tex, 128, 0
+12556, tunning_0006, tunning_tex, 128, 0
+12557, tunning_0007, tunning_tex, 128, 0
+12558, tunning_0008, tunning_tex, 128, 0
+12559, tunning_0009, tunning_tex, 128, 0
+12560, tunning_0010, tunning_tex, 128, 0
+12561, tunning_0012, tunning_tex, 128, 0
+12562, tunning_0013, tunning_tex, 128, 0
+12563, vadtun01, vadtextun, 128, 0
+12564, vadtun02, vadtextun, 128, 0
+12565, vadtun03, vadtextun, 128, 0
+12566, vadtun04, vadtextun, 128, 0
+12567, vadtun05, vadtextun, 128, 0
+12568, vadtun06, vadtextun, 128, 0
+12569, vadtun07, vadtextun, 128, 0
+12570, vadtun08, vadtextun, 128, 0
+12571, vadtun09, vadtextun, 128, 0
+12572, vadtun10, vadtextun, 128, 0
+12573, vadtun11, vadtextun, 128, 0
+12574, vadtun12, vadtextun, 128, 0
+12575, vadtun13, vadtextun, 128, 0
+12576, vadtun14, vadtextun, 128, 0
+12577, vadtun15, vadtextun, 128, 0
+12578, vadtun16, vadtextun, 128, 0
+12579, vadtun17, vadtextun, 128, 0
+12580, wheel_1, wheels, 128, 0
+12581, wheel_2, wheels, 128, 0
+12582, wheel_3, wheels, 128, 0
+12584, wheel_4, wheels, 128, 0
+12585, wheel_5, wheels, 128, 0
+12586, wheel_6, wheels, 128, 0
+12587, wheel_7, wheels, 128, 0
+12588, wheel_8, wheels, 128, 0
+12589, wheel_9, wheels, 128, 0
+12590, wheel_10, wheels, 128, 0
+12591, wheel_11, wheels, 128, 0
+12592, wheel_12, wheels, 128, 0
+12593, wheel_13, wheels, 128, 0
+12594, wheel_14, wheels, 128, 0
+12595, wheel_15, wheels, 128, 0
+12596, wheel_16, wheels, 128, 0
+12597, wheel_17, wheels, 128, 0
+end
+
+# SAMP.ide
+peds
+312, albert, albert, CRIMINAL, STAT_CRIMINAL, gang1, 110F,1, man,5,0,PED_TYPE_GEN,VOICE_GEN_BMYCR ,VOICE_GEN_BMYCR
+313, amiran, amiran, CIVMALE, STAT_COWARD, man, 120C,0, man,10,9,PED_TYPE_GEN,VOICE_GEN_HMORI ,VOICE_GEN_HMORI
+314, bathory, bathory, CIVMALE, STAT_TOUGH_GUY, man, 170F,1, man,10,1,PED_TYPE_GEN,VOICE_GEN_BBDYG1 ,VOICE_GEN_BBDYG1
+315, brulov, brulov, CIVMALE, STAT_GEEK_GUY, man,1000,1, man,2,6,PED_TYPE_GEN,VOICE_GEN_WMYBP ,VOICE_GEN_WMYBP
+316, creed, creed, CRIMINAL, STAT_CRIMINAL, man, 110F,1, man,0,0,PED_TYPE_GEN,VOICE_GEN_HMYCR ,VOICE_GEN_HMYCR
+317, delorenzy, delorenzy, CRIMINAL, STAT_CRIMINAL, man, 110F,0, man,4,4,PED_TYPE_GEN,VOICE_GEN_WMYDRUG ,VOICE_GEN_WMYDRUG
+318, edvardbil, edvardbil, CRIMINAL, STAT_CRIMINAL, man, 110F,0, man,9,7,PED_TYPE_GEN,VOICE_GEN_HMYDRUG ,VOICE_GEN_HMYDRUG
+319, eljay, eljay, CRIMINAL, STAT_CRIMINAL, man, 110F,1, null,4,9,PED_TYPE_GEN,VOICE_GEN_SHMYCR ,VOICE_GEN_SHMYCR
+329, evaelfie, evaelfie, PROSTITUTE, STAT_PROSTITUTE, pro,1000,1, man,1,4,PED_TYPE_GEN,VOICE_GEN_WFYPRO,VOICE_GEN_WFYPRO
+332, feduk, feduk, CIVMALE, STAT_STREET_GUY, man,1983,1, null,4,3,PED_TYPE_GEN,VOICE_GEN_WMYST ,VOICE_GEN_WMYST
+340, kovalevsky, kovalevsky, CIVMALE, STAT_TOUGH_GUY, man, 0,1, null,5,2,PED_TYPE_GEN,VOICE_GEN_BIKERA ,VOICE_GEN_BIKERA
+382, litvin, litvin, CRIMINAL, STAT_CRIMINAL, man, 110F,1, null,2,2,PED_TYPE_GEN,VOICE_GEN_MAFFA ,VOICE_GEN_MAFFA
+383, maras, maras, GANG5, STAT_GANG5, gang1, 110F,1, man,3,4,PED_TYPE_GANG,VOICE_GNG_DNB1 ,VOICE_GNG_DNB1
+398, morgershtern, morgershtern, CIVMALE, STAT_SENSIBLE_GUY, man,1000,1, man,1,4,PED_TYPE_GFD,VOICE_GFD_WMYPIZZ ,VOICE_GFD_WMYPIZZ
+399, nurmagamedov, nurmagamedov, CRIMINAL, STAT_CRIMINAL, man, 110F,1, man,8,10,PED_TYPE_GEN,VOICE_GEN_HMYCM ,VOICE_GEN_HMYCM
+795, oxymiron, oxymiron, CIVMALE, STAT_TAXIDRIVER, man, 0040,0, null,2,9,PED_TYPE_GEN,VOICE_GEN_SWMOCD,VOICE_GEN_SWMOCD
+796, pavlenko, pavlenko, CIVMALE, STAT_SUIT_GUY, man, 120C,0, man,10,11,PED_TYPE_GEN,VOICE_GEN_WMOMIB ,VOICE_GEN_WMOMIB
+797, ravyazan, ravyazan, CIVMALE, STAT_OLD_GUY, man, 110F,0, man,1,1,PED_TYPE_GEN,VOICE_GEN_CWMOHB1,VOICE_GEN_CWMOHB1
+798, romeru, romeru, GANG6, STAT_GANG6, man, 110F,1, man,2,2,PED_TYPE_GANG,VOICE_GNG_VMAFF4 ,VOICE_GNG_VMAFF4
+799, sammason, sammason, GANG8, STAT_GANG8, gang2, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA3 ,VOICE_GNG_VLA4
+907, shurigina, shurigina, CIVFEMALE, STAT_SUIT_GIRL, sexywoman, 1FFF,0, null,0,3,PED_TYPE_GFD,VOICE_GFD_MILLIE ,VOICE_GFD_MILLIE
+908, valik, valik, CIVMALE, STAT_SUIT_GUY, man, 120C,1, null,4,0,PED_TYPE_GEN,VOICE_GEN_SOMYRI,VOICE_GEN_SOMYRI
+1206, basta, basta, GANG1, STAT_GANG1, gang1, 110F,1, null,3,3,PED_TYPE_GANG,VOICE_GNG_BALLAS5 ,VOICE_GNG_BALLAS5
+1326, byzova, byzova, CIVFEMALE, STAT_SUIT_GIRL, sexywoman, 1FFF,0, null,0,3,PED_TYPE_GFD,VOICE_GFD_MILLIE ,VOICE_GFD_MILLIE 
+1573, dzyuba, dzyuba, CIVMALE, STAT_STREET_GUY, man,1983,1, null,4,3,PED_TYPE_GEN,VOICE_GEN_WMYST ,VOICE_GEN_WMYST 
+1699, urgant, urgant, CRIMINAL, STAT_CRIMINAL, man, 110F,1, null,2,2,PED_TYPE_GEN,VOICE_GEN_MAFFA ,VOICE_GEN_MAFFA 
+2883, khovanksy, khovanksy, CIVMALE, STAT_STREET_GUY, man, 130C, 1, null, 0,8,PED_TYPE_GEN,VOICE_GEN_SMYST2 ,VOICE_GEN_SMYST2 
+2884, lukashenko, lukashenko, CIVMALE, STAT_STREET_GUY, man, 1FFF,0, null,1,4,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE
+3136, maddyson, maddyson, GANG5, STAT_GANG5, gang1, 110F,1, man,3,4,PED_TYPE_GANG,VOICE_GNG_DNB3 ,VOICE_GNG_DNB5 
+3137, noize, noize, CIVMALE, STAT_TRAMP_MALE, man,1000,0, man,1,4,PED_TYPE_GEN,VOICE_GEN_SBMYTR3 ,VOICE_GEN_SBMYTR3 
+3138, pashatechnique, pashatechnique, CIVMALE, STAT_SENSIBLE_GUY, man,1000,1, man,1,4,PED_TYPE_GEN,VOICE_GEN_BMOST ,VOICE_GEN_BMOST 
+3139, restorator, restorator, CIVMALE, STAT_SENSIBLE_GUY, man,1000,1, man,1,4,PED_TYPE_GEN,VOICE_GEN_WMYBE ,VOICE_GEN_WMYBE 
+3140, richi, richi, CIVMALE, STAT_SENSIBLE_GUY, man,1000,1, man,1,4,PED_TYPE_GFD,VOICE_GFD_WMYBARB ,VOICE_GFD_WMYBARB 
+3141, sashagrey, sashagrey, CIVFEMALE, STAT_STREET_GIRL, sexywoman,1000,1, null,1,4,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+3142, yurydud, yurydud, CIVMALE, STAT_SUIT_GUY, man, 120C,0, man,10,11,PED_TYPE_GEN,VOICE_GEN_WMOMIB ,VOICE_GEN_WMOMIB 
+3143, snowman, snowman, CIVMALE, STAT_STREET_GUY, man, 1FFF,0, null,1,4,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+3144, elf, elf, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LVPD1 ,VOICE_EMG_LVPD5
+3145, farmernewyear, farmernewyear, CIVMALE, STAT_STD_MISSION, fatman, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0 
+3146, dedmoroz, dedmoroz, CIVMALE, STAT_STREET_GUY, man, 1FFF,0, null,1,4,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE
+3147, yoda, yoda, CIVMALE, STAT_TOUGH_GUY, oldman,1983,0, man,6,2,PED_TYPE_GEN,VOICE_GEN_CWMYHB1,VOICE_GEN_CWMYHB1
+3148, leshiy, leshiy, CIVMALE, STAT_STREET_GUY, man, 1FFF,0, null,1,4,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE
+3149, newshuba, newshuba, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8
+3150, deer, deer, FIREMAN, STAT_FIREMAN, swat, 1FFF, 0, null, 9,9, PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+3151, penguin, penguin, FIREMAN, STAT_FIREMAN, swat, 1FFF, 0, null, 9,9, PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+3152, snegurochka, snegurochka, CIVFEMALE, STAT_STREET_GIRL, sexywoman,1000,1, null,1,4,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+3153, footba, footba, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8
+3154, elfa, elfa, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8
+3159, gentelman1, gentelman1, GANG8, STAT_GANG8, gang2, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA3 ,VOICE_GNG_VLA4 
+3160, gentelman2, gentelman2, GANG8, STAT_GANG8, gang2, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA3 ,VOICE_GNG_VLA4 
+3161, gentelman3, gentelman3, GANG8, STAT_GANG8, gang2, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA3 ,VOICE_GNG_VLA4 
+3162, gentelman4, gentelman4, GANG8, STAT_GANG8, gang2, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA3 ,VOICE_GNG_VLA4 
+3163, gentelman5, gentelman5, GANG8, STAT_GANG8, gang2, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA3 ,VOICE_GNG_VLA4 
+3164, gentelman6, gentelman6, GANG8, STAT_GANG8, gang2, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA3 ,VOICE_GNG_VLA4 
+3165, minecraft1, minecraft1, CIVMALE, STAT_TRAMP_MALE, man, 1000,0, null,1,4,PED_TYPE_GEN,VOICE_GEN_SWMOTR5,VOICE_GEN_SWMOTR5
+3166, minecraft2, minecraft2, CIVMALE, STAT_TOURIST, man,1983,1, null,0,3,PED_TYPE_GEN,VOICE_GEN_SWMYST ,VOICE_GEN_SWMYST 
+3176, minecraft3, minecraft3, CIVMALE, STAT_SUIT_GUY, man, 120C,1, null,8,0,PED_TYPE_GEN,VOICE_GEN_SBMORI ,VOICE_GEN_SBMORI 
+3177, minecraft4, minecraft4, CRIMINAL, STAT_CRIMINAL, man, 110F,0, man,4,4,PED_TYPE_GEN,VOICE_GEN_WMYDRUG ,VOICE_GEN_WMYDRUG 
+3179, minecraft5, minecraft5, CIVMALE, STAT_TRAMP_MALE, man,1000,0, null,1,4,PED_TYPE_GEN,VOICE_GEN_VWMOTR1,VOICE_GEN_VWMOTR1
+3180, minecraft6, minecraft6, CIVFEMALE, STAT_STREET_GIRL, sexywoman, 130C,0, null,5,9,PED_TYPE_GEN,VOICE_GEN_SWFYST ,VOICE_GEN_SWFYST  
+3181, minecraft7, minecraft7, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG, VOICE_EMG_ARMY1 ,VOICE_EMG_ARMY3 	
+3182, minecraft8, minecraft8, GANG4, STAT_GANG4, gang1, 110F,1, man,8,8,PED_TYPE_GANG,VOICE_GNG_SFR5 ,VOICE_GNG_SFR5 
+3183, minecraft9, minecraft9, CIVMALE, STAT_TOUGH_GUY, man, 1FFF,0, null,0,7,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+3184, minecraft10, minecraft10, CRIMINAL, STAT_CRIMINAL, man, 110F,1, man,5,0,PED_TYPE_GEN,VOICE_GEN_VBMYCR,VOICE_GEN_VBMYCR
+3185, navalny, navalny, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_FBI2 ,VOICE_EMG_FBI6 	
+3186, putin, putin, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0 
+3188, ironman, ironman, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8
+3189, spiderman, spiderman, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8
+3190, venom, venom, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8
+3191, captainamerica, captainamerica, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8
+3192, batman, batman, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8
+3225, anonimys, anonimys, GANG1, STAT_GANG1, gang1, 110F,1, null,3,3,PED_TYPE_GANG,VOICE_GNG_BALLAS5 ,VOICE_GNG_BALLAS5
+3226, rabbit1, rabbit1, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LVPD1 ,VOICE_EMG_LVPD5
+3227, rabbit2, rabbit2, CIVMALE, STAT_SENSIBLE_GUY, man,1000,1, man,1,4,PED_TYPE_GEN,VOICE_GEN_BMOST ,VOICE_GEN_BMOST
+3228, rabbit3, rabbit3, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG, VOICE_EMG_ARMY1 ,VOICE_EMG_ARMY3
+3229, rabbit4, rabbit4, CIVFEMALE, STAT_SHOPPER, woman, 120C,0, null,4,6,PED_TYPE_GEN,VOICE_GEN_SWFYRI ,VOICE_GEN_SWFYRI
+3230, rabbit5, rabbit5, CIVFEMALE, STAT_SHOPPER, woman, 120C,0, null,4,6,PED_TYPE_GEN,VOICE_GEN_SWFYRI ,VOICE_GEN_SWFYRI
+3231, rabbitfarmer, rabbitfarmer, CIVMALE, STAT_BEACH_GUY, man,1000,0, beach,7,3,PED_TYPE_GEN,VOICE_GEN_BMYBE ,VOICE_GEN_BMYBE
+3349, alpachino, alpachino, GANG6, STAT_GANG6, man, 110F,1, man,2,2,PED_TYPE_GANG,VOICE_GNG_VMAFF5 ,VOICE_GNG_VMAFF5
+3416, bradpitt, bradpitt, GANG6, STAT_GANG6, man, 110F,1, man,2,2,PED_TYPE_GANG,VOICE_GNG_VMAFF4 ,VOICE_GNG_VMAFF4
+3429, dikaprio, dikaprio, GANG6, STAT_GANG6, man, 110F,1, man,2,2,PED_TYPE_GANG,VOICE_GNG_VMAFF3 ,VOICE_GNG_VMAFF3
+3610, disel, disel, GANG5, STAT_GANG5, gang1, 110F,1, man,3,4,PED_TYPE_GANG,VOICE_GNG_DNB1 ,VOICE_GNG_DNB1 
+3611, kianu, kianu, GANG7, STAT_GANG7, man, 110F,1, man,4,4,PED_TYPE_GANG,VOICE_GNG_STRI1 ,VOICE_GNG_STRI1 
+3784, mask, mask, CRIMINAL, STAT_CRIMINAL, man, 110F,1, null,2,2,PED_TYPE_GEN,VOICE_GEN_MAFFA ,VOICE_GEN_MAFFA 
+3870, robertjr, robertjr, CRIMINAL, STAT_CRIMINAL, man, 110F,1, null,2,2,PED_TYPE_GANG,VOICE_GNG_MAFBOSS ,VOICE_GNG_MAFBOSS 
+3871, shwarz, shwarz, CIVMALE, STAT_COWARD, man, 120C,1, man,6,3,PED_TYPE_GEN,VOICE_GEN_WMYBU,VOICE_GEN_WMYBU
+3883, statham, statham, CIVMALE, STAT_SUIT_GUY, man, 120C,1, null,4,0,PED_TYPE_GEN,VOICE_GEN_SOMYRI,VOICE_GEN_SOMYRI
+3889, tarantino, tarantino, GANG7, STAT_GANG7, man, 110F,1, man,4,4,PED_TYPE_GANG,VOICE_GNG_STRI1 ,VOICE_GNG_STRI5 
+4549, stalone, stalone, CIVMALE, STAT_TOUGH_GUY, man, 1000,1, man,1,4,PED_TYPE_GFD,VOICE_GFD_WMYAMMO ,VOICE_GFD_WMYAMMO 
+4763, murphy, murphy, GANG6, STAT_GANG6, man, 110F,1, man,2,2,PED_TYPE_GANG,VOICE_GNG_VMAFF4 ,VOICE_GNG_VMAFF4 
+4764, hardy, hardy, CRIMINAL, STAT_CRIMINAL, man, 110F,1, null,2,2,PED_TYPE_GEN,VOICE_GEN_MAFFA ,VOICE_GEN_MAFFA 
+4765, tyson, tyson, GANG2, STAT_GANG2, gang2, 110F,1, null,5,5,PED_TYPE_GANG,VOICE_GNG_FAM5 ,VOICE_GNG_FAM5 
+4766, kanye, kanye, GANG2, STAT_GANG2, gang2, 110F,1, null,5,5,PED_TYPE_GANG,VOICE_GNG_FAM1 ,VOICE_GNG_FAM2 
+4767, mcgregor, mcgregor, CIVMALE, STAT_TOUGH_GUY, man, 1000,0, man,1,4,PED_TYPE_GEN,VOICE_GEN_WMYBOX ,VOICE_GEN_WMYBOX 
+4768, travolta, travolta, GANG7, STAT_GANG7, man, 110F,1, man,4,4,PED_TYPE_GANG,VOICE_GNG_STRI1 ,VOICE_GNG_STRI1 
+4769, cluni, cluni, CIVMALE, STAT_SUIT_GUY, man,1000,1, man,1,4,PED_TYPE_GEN,VOICE_GEN_VWMYBJD ,VOICE_GEN_VWMYBJD 
+4770, markcyker, markcyker, CRIMINAL, STAT_CRIMINAL, man, 110F,1, man,0,3,PED_TYPE_GEN,VOICE_GEN_VHMYCR,VOICE_GEN_VHMYCR
+4771, dwaynej, dwaynej, CIVMALE, STAT_TOUGH_GUY, man, 1000,0, man,1,4,PED_TYPE_GEN,VOICE_GEN_BMYBOX ,VOICE_GEN_BMYBOX 
+4772, kage, kage, CIVMALE, STAT_COWARD, man, 170F,1, null,1,2,PED_TYPE_GEN,VOICE_GEN_VHMYELV,VOICE_GEN_VHMYELV
+4773, will, will, CIVMALE, STAT_COWARD, man, 170F,1, null,1,1,PED_TYPE_GEN,VOICE_GEN_VIMYELV,VOICE_GEN_VIMYELV
+4804, aaron, aaron, CIVMALE, STAT_STREET_GUY, gang2,1983,1, null,0,3,PED_TYPE_GEN,VOICE_GEN_BMYST ,VOICE_GEN_BMYST 
+4805, cooper, cooper, CIVMALE, STAT_STREET_GUY, gang2,1983,1, null,0,3,PED_TYPE_GEN,VOICE_GEN_BMYST ,VOICE_GEN_BMYST 
+5085, defo, defo, CIVMALE, STAT_OLD_GUY, man,1003,0, man,8,1,PED_TYPE_GEN,VOICE_GEN_WMOST ,VOICE_GEN_WMOST 
+5090, evans, evans, GANG1, STAT_GANG1, gang1, 110F,1, null,3,3,PED_TYPE_GANG,VOICE_GNG_BALLAS5 ,VOICE_GNG_BALLAS5 
+5091, gosling, gosling, GANG1, STAT_GANG1, gang1, 110F,1, null,3,3,PED_TYPE_GANG,VOICE_GNG_BALLAS5 ,VOICE_GNG_BALLAS5 
+5092, hannem, hannem, CIVMALE, STAT_SHOPPER, man, 120C,1, null,6,9,PED_TYPE_GEN,VOICE_GEN_WMYRI ,VOICE_GEN_WMYRI 
+5093, hbirth1, hbirth1, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0 
+5094, hbirth2, hbirth2, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0 
+5095, hbirth3, hbirth3, CIVMALE, STAT_STD_MISSION, fatman, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0 
+5096, hbirth4, hbirth4, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0 
+5097, hbirth5, hbirth5, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0 
+5098, hbirth6, hbirth6, CIVFEMALE, STAT_SUIT_GIRL, woman, 130C,0, null,3,7,PED_TYPE_GEN,VOICE_GEN_BFYCRP ,VOICE_GEN_BFYCRP
+5099, hbirth7, hbirth7, CIVFEMALE, STAT_STREET_GIRL, sexywoman,1000,1, man,1,4,PED_TYPE_GEN,VOICE_GEN_VWFYST1 ,VOICE_GEN_VWFYST1 
+5100, hbirth8, hbirth8, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0
+5101, hbirth9, hbirth9, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0
+5102, hbirth10, hbirth10, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0 
+5103, jackiechan, jackiechan, GANG7, STAT_GANG7, man, 110F,1, man,4,4,PED_TYPE_GANG,VOICE_GNG_STRI1 ,VOICE_GNG_STRI1 
+5104, maccon, maccon, GANG6, STAT_GANG6, man, 110F,1, man,2,2,PED_TYPE_GANG,VOICE_GNG_VMAFF3 ,VOICE_GNG_VMAFF3 
+5376, matt, matt, GANG6, STAT_GANG6, man, 110F,1, man,2,2,PED_TYPE_GANG,VOICE_GNG_VMAFF4 ,VOICE_GNG_VMAFF4 
+5377, morgan, morgan, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0
+5378, tatum, tatum, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8 	
+5379, woker, woker, GANG8, STAT_GANG8, gang2, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA3 ,VOICE_GNG_VLA4 
+5380, wood, wood, CIVMALE, STAT_TOUGH_GUY, oldman,1983,0, man,6,2,PED_TYPE_GEN,VOICE_GEN_CWMYHB1,VOICE_GEN_CWMYHB1
+6014, hall0, hall0, CIVMALE, STAT_SENSIBLE_GUY, man, 0, 0, man, 1,4, PED_TYPE_GANG, VOICE_GNG_BIG_BEAR, VOICE_GNG_BIG_BEAR
+6015, hall1, hall1, CIVMALE, STAT_SENSIBLE_GUY, man, 0, 0, man, 1,4, PED_TYPE_GEN, VOICE_GEN_MALE01, VOICE_GEN_MALE01
+6016, hall2, hall2, CIVMALE, STAT_COWARD, man, 120C,1, null,2,4,PED_TYPE_GEN,VOICE_GEN_OMYRI ,VOICE_GEN_OMYRI 
+6017, hall4, hall4, CIVMALE, STAT_OLD_GUY, oldman,1000,0, null,1,1,PED_TYPE_GEN,VOICE_GEN_WMOPJ ,VOICE_GEN_WMOPJ 
+6018, hall5, hall5, CIVMALE, STAT_SENSIBLE_GUY, fatman, 0, 0, fatman, 1,4, PED_TYPE_GANG, VOICE_GNG_BIG_BEAR, VOICE_GNG_BIG_BEAR
+6019, hall6, hall6, CIVMALE, STAT_SENSIBLE_GUY, man,1000,1, man,1,4,PED_TYPE_GEN,VOICE_GEN_BMOST ,VOICE_GEN_BMOST 
+6020, hall7, hall7, CIVMALE, STAT_OLD_GUY, man,1000,0, man,1,4,PED_TYPE_GEN,VOICE_GEN_CWMOFR1,VOICE_GEN_CWMOFR1
+6021, hasbik, hasbik, CIVMALE, STAT_STREET_GUY, man, 1FFF,0, null,1,4,PED_TYPE_GEN,VOICE_GNG_CESAR, VOICE_GNG_CESAR
+6022, hellmem, hellmem, CIVMALE, STAT_TAXIDRIVER, man, 0040,0, null,8,0,PED_TYPE_GEN,VOICE_GEN_BMOCD ,VOICE_GEN_BMOCD 
+6023, pubgmaskgirl, pubgmaskgirl, CIVFEMALE, STAT_STREET_GIRL, woman, 1FFF,0, null,1,4,PED_TYPE_GFD,VOICE_GFD_WFYCLOT ,VOICE_GFD_WFYCLOT
+6024, pubgmaskman, pubgmaskman, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_SWAT1 ,VOICE_EMG_SWAT6 
+6025, pubggirl1, pubggirl1, CIVFEMALE, STAT_STREET_GIRL, woman, 1FFF,0, null,1,4,PED_TYPE_GFD,VOICE_GFD_WFYCLOT ,VOICE_GFD_WFYCLOT
+6026, pubgman1, pubgman1, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_SWAT1 ,VOICE_EMG_SWAT6 
+6027, pubggirl2, pubggirl2, CIVFEMALE, STAT_STREET_GIRL, woman, 1FFF,0, null,1,4,PED_TYPE_GFD,VOICE_GFD_WFYCLOT ,VOICE_GFD_WFYCLOT
+6028, pubgman2, pubgman2, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_SWAT1 ,VOICE_EMG_SWAT6 
+6029, pubggirl3, pubggirl3, CIVFEMALE, STAT_STREET_GIRL, woman, 1FFF,0, null,1,4,PED_TYPE_GFD,VOICE_GFD_WFYCLOT ,VOICE_GFD_WFYCLOT
+6030, pubgman3, pubgman3, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_SWAT1 ,VOICE_EMG_SWAT6 
+6031, pubggirl4, pubggirl4, CIVFEMALE, STAT_STREET_GIRL, woman, 1FFF,0, null,1,4,PED_TYPE_GFD,VOICE_GFD_WFYCLOT ,VOICE_GFD_WFYCLOT
+6032, pubgman4, pubgman4, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_SWAT1 ,VOICE_EMG_SWAT6 
+12700, chistmasbomj1, chistmasbomj1, CIVMALE, STAT_TRAMP_MALE, man,1000,0, man,1,4,PED_TYPE_GEN,VOICE_GEN_SWMOTR2,VOICE_GEN_SWMOTR2
+12701, chistmasbomj2, chistmasbomj2, CIVMALE, STAT_OLD_GUY, man,1003,0, man,1,10,PED_TYPE_GEN,VOICE_GEN_DNMOLC1,VOICE_GEN_DNMOLC1
+12702, chistmasbomj3, chistmasbomj3, CIVMALE, STAT_TOUGH_GUY, oldman,1983,0, man,6,2,PED_TYPE_GEN,VOICE_GEN_CWMYHB1,VOICE_GEN_CWMYHB1
+12703, chistmasbomj4, chistmasbomj4, CIVMALE, STAT_OLD_GUY, oldman,1983,0, man,1,1,PED_TYPE_GEN,VOICE_GEN_CWMOHB2,VOICE_GEN_CWMOHB2
+12704, chistmasbomj5, chistmasbomj5, CIVMALE, STAT_SENSIBLE_GUY, man,1000,1, man,1,4,PED_TYPE_GFD,VOICE_GFD_WMYBARB ,VOICE_GFD_WMYBARB 
+12705, elf2021, elf2021, CIVMALE, STAT_TOURIST, man,1983,1, null,0,3,PED_TYPE_GEN,VOICE_GEN_SWMYST ,VOICE_GEN_SWMYST 
+12706, grinch, grinch, CRIMINAL, STAT_CRIMINAL, gang1, 110F,1, man,5,0,PED_TYPE_GEN,VOICE_GEN_BMYCR ,VOICE_GEN_BMYCR 
+12707, littlebill, littlebill, CRIMINAL, STAT_CRIMINAL, gang1, 110F,1, man,5,0,PED_TYPE_GEN,VOICE_GEN_BMYCR ,VOICE_GEN_BMYCR 
+12708, santa, santa, CIVMALE, STAT_STREET_GUY, man, 1FFF,0, null,1,4,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+12709, yearroliki1, yearroliki1, CIVMALE, STAT_SKATER, skate,1000,0, skate,9,9,PED_TYPE_GEN,VOICE_GEN_WMYRO,VOICE_GEN_WMYRO
+12710, yearroliki2, yearroliki2, CIVFEMALE, STAT_SKATER, skate,1000,1, skate,1,4,PED_TYPE_GEN,VOICE_GEN_WFYRO ,VOICE_GEN_WFYRO 
+12711, yearroliki3, yearroliki3, CIVMALE, STAT_SKATER, skate,1000,0, skate,9,9,PED_TYPE_GEN,VOICE_GEN_WMYRO,VOICE_GEN_WMYRO
+12712, yearroliki4, yearroliki4, CIVFEMALE, STAT_SKATER, skate,1000,1, skate,1,4,PED_TYPE_GEN,VOICE_GEN_WFYRO ,VOICE_GEN_WFYRO 
+15010, bestavto, bestavto, PLAYER1, STAT_PLAYER, sexywoman, 0, 0, null, 9,9	, PED_TYPE_PLAYER, VOICE_PLY_CR, VOICE_PLY_CR
+15011, bestavtobar, bestavtobar, PLAYER1, STAT_PLAYER, man, 0, 0, null, 9,9	, PED_TYPE_PLAYER, VOICE_PLY_CR, VOICE_PLY_CR
+15012, bestclad, bestclad, PLAYER1, STAT_PLAYER, man, 0, 0, null, 9,9	, PED_TYPE_PLAYER, VOICE_PLY_CR, VOICE_PLY_CR
+15013, bestcliver, bestcliver, PLAYER1, STAT_PLAYER, man, 0, 0, null, 9,9	, PED_TYPE_PLAYER, VOICE_PLY_CR, VOICE_PLY_CR
+15014, bestcr, bestcr, PLAYER1, STAT_PLAYER, man, 0, 0, null, 9,9	, PED_TYPE_PLAYER, VOICE_PLY_CR, VOICE_PLY_CR
+15015, bestshaxt, bestshaxt, PLAYER1, STAT_PLAYER, man, 0, 0, null, 9,9	, PED_TYPE_PLAYER, VOICE_PLY_CR, VOICE_PLY_CR
+15016, mortaljax, mortaljax, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_FBI2 ,VOICE_EMG_FBI6
+15017, mortalliu, mortalliu, CIVMALE, STAT_COWARD, man, 120C,0, null,9,3,PED_TYPE_GEN,VOICE_GEN_SOMORI,VOICE_GEN_SOMORI
+15018, mortalnoob, mortalnoob, CIVMALE, STAT_TRAMP_MALE, man, 1000,0, null,1,4,PED_TYPE_GEN,VOICE_GEN_SWMOTR5,VOICE_GEN_SWMOTR5
+15019, mortalsony, mortalsony, CIVFEMALE, STAT_STREET_GIRL, woman, 1003,1, null,4,7,PED_TYPE_GEN,VOICE_GEN_SOFYST,VOICE_GEN_SOFYST
+15021, mortaltsung, mortaltsung, CIVMALE, STAT_SUIT_GUY, man, 120C,1, null,8,0,PED_TYPE_GEN,VOICE_GEN_SBMORI ,VOICE_GEN_SBMORI 
+15022, mortraiden, mortraiden, CIVMALE, STAT_TOUGH_GUY, man, 1FFF,0, null,2,0,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+15023, mortscorpion, mortscorpion, CIVMALE, STAT_TOUGH_GUY, man, 1FFF,0, null,2,0,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+15024, mortsub, mortsub, CIVMALE, STAT_TOUGH_GUY, man, 1FFF,0, null,2,0,PED_TYPE_GEN,VOICE_GEN_NOVOICE ,VOICE_GEN_NOVOICE 
+15065, new1, new1, CIVMALE, STAT_SENSIBLE_GUY, man, 0, 0, man, 1,4, PED_TYPE_GEN, VOICE_GEN_MALE01, VOICE_GEN_MALE01 		
+15066, new2, new2, CIVMALE, STAT_COWARD, man, 120C,0, man,9,8,PED_TYPE_GEN,VOICE_GEN_BMORI,VOICE_GEN_BMORI
+15067, new3, new3, CIVMALE, STAT_BEACH_GUY, man,1000,0, beach,7,3,PED_TYPE_GEN,VOICE_GEN_BMYBE ,VOICE_GEN_BMYBE 
+15068, new4, new4, CRIMINAL, STAT_CRIMINAL, gang1, 110F,1, man,5,0,PED_TYPE_GEN,VOICE_GEN_BMYCR ,VOICE_GEN_BMYCR 
+15069, new5, new5, CIVMALE, STAT_TOUGH_GUY, man, 170F,1, man,10,1,PED_TYPE_GEN,VOICE_GEN_BBDYG1 ,VOICE_GEN_BBDYG1 
+15070, new6, new6, CIVMALE, STAT_GEEK_GUY, man,1000,1, man,2,6,PED_TYPE_GEN,VOICE_GEN_WMYBP ,VOICE_GEN_WMYBP 
+15071, new7, new7, CIVMALE, STAT_CRIMINAL, man, 110F,0, man,4,4,PED_TYPE_GEN,VOICE_GEN_WMYDRUG ,VOICE_GEN_WMYDRUG 
+15072, new8, new8, CIVMALE, STAT_OLD_GUY, man,1003,0, null,1,2,PED_TYPE_GEN,VOICE_GEN_DWMOLC2,VOICE_GEN_DWMOLC2
+15073, new9, new9, CIVMALE, STAT_COWARD, man, 170F,0, null,7,3,PED_TYPE_GEN,VOICE_GEN_WMYGOL2 ,VOICE_GEN_WMYGOL2 
+15074, new10, new10, CIVMALE, STAT_COWARD, man, 120C,0, man,10,9,PED_TYPE_GEN,VOICE_GEN_HMORI ,VOICE_GEN_HMORI 
+15075, new11, new11, CIVMALE, STAT_SUIT_GUY, man,1983,1, null,6,4,PED_TYPE_GEN,VOICE_GEN_HMYRI ,VOICE_GEN_HMYRI 
+15076, new12, new12, CIVMALE, STAT_SENSIBLE_GUY, man,0800,1, man,6,2,PED_TYPE_GEN,VOICE_GEN_WMYMOUN ,VOICE_GEN_WMYMOUN 
+15077, new13, new13, CIVMALE, STAT_TOUGH_GUY, man, 110F,1, man,0,0,PED_TYPE_GEN,VOICE_GEN_BMYPOL1 ,VOICE_GEN_BMYPOL1 
+15078, new14, new14, CIVMALE, STAT_COWARD, man,1882,1, man,2,8,PED_TYPE_GEN,VOICE_GEN_SWMYHP2,VOICE_GEN_SWMYHP2
+15079, new15, new15, CIVFEMALE, STAT_TOURIST, woman,1003,1, null,6,6,PED_TYPE_GEN,VOICE_GEN_OFYST,VOICE_GEN_OFYST
+15080, new16, new16, CIVFEMALE, STAT_COWARD, woman, 120C,1, null,2,7,PED_TYPE_GEN,VOICE_GEN_OFYRI,VOICE_GEN_OFYRI
+15081, new17, new17, CIVFEMALE, STAT_COWARD, jogwoman,1000,0, beach,9,9,PED_TYPE_GEN,VOICE_GEN_WFYJG ,VOICE_GEN_WFYJG 
+15082, new18, new18, CIVFEMALE, STAT_COWARD, sexywoman, 120C,1, null,4,6,PED_TYPE_GEN,VOICE_GEN_WFYRI ,VOICE_GEN_WFYRI 
+15083, new19, new19, CIVFEMALE, STAT_STREET_GIRL, sexywoman,1983,1, null,4,6,PED_TYPE_GEN,VOICE_GEN_WFYST,VOICE_GEN_WFYST
+15084, new20, new20, CIVFEMALE, STAT_CRIMINAL, woman, 110F,1, man,4,3,PED_TYPE_GEN,VOICE_GEN_WFYCRK ,VOICE_GEN_WFYCRK 
+15086, 03bestcar, 03bestcar, COP, STAT_COP, swat, 1FFF, 0, null, 9,9, PED_TYPE_EMG,VOICE_EMG_LAPD1 ,VOICE_EMG_LAPD8 
+15087, 03besthouse, 03besthouse, CRIMINAL, STAT_CRIMINAL, man, 110F,0, man,4,4,PED_TYPE_GEN,VOICE_GEN_WMYDRUG ,VOICE_GEN_WMYDRUG 
+15088, 03bomj, 03bomj, CIVMALE, STAT_TRAMP_MALE, man, 1000,0, null,1,4,PED_TYPE_GEN,VOICE_GEN_SWMOTR5,VOICE_GEN_SWMOTR5
+15089, 03bomj1, 03bomj1, CIVMALE, STAT_STREET_GUY, man,1983,1, null,4,3,PED_TYPE_GEN,VOICE_GEN_WMYST ,VOICE_GEN_WMYST 
+15090, 03bomj2, 03bomj2, CIVMALE, STAT_STREET_GUY, man,1003,0, man,8,9,PED_TYPE_GEN,VOICE_GEN_BMOST ,VOICE_GEN_BMOST 
+15091, 03brayant, 03brayant, GANG1, STAT_GANG1, gang1, 110F,1, null,3,3,PED_TYPE_GANG,VOICE_GNG_BALLAS1 ,VOICE_GNG_BALLAS2 
+15092, 03chiken, 03chiken, CIVMALE, STAT_TRAMP_MALE, man,1000,0, man,1,4,PED_TYPE_GEN,VOICE_GEN_SWMOTR2,VOICE_GEN_SWMOTR2
+15093, 03cristiano, 03cristiano, GANG8, STAT_GANG8, gang2, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA3 ,VOICE_GNG_VLA4 
+15094, 03messi, 03messi, GANG8, STAT_GANG8, gang1, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA5 ,VOICE_GNG_VLA5 
+15095, 03ovechkin, 03ovechkin, GANG8, STAT_GANG8, gang1, 110F,1, man,0,0,PED_TYPE_GANG,VOICE_GNG_VLA1 ,VOICE_GNG_VLA2 
+15096, 03usyk, 03usyk, CIVMALE, STAT_TOUGH_GUY, man, 1000,0, man,1,4,PED_TYPE_GEN,VOICE_GEN_WMYBOX ,VOICE_GEN_WMYBOX 
+15097, 03zelenskiy, 03zelenskiy, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC,0 ,0 
+end
+
+# vehicles.ide
+cars
+612,	gtsamg,		gtsamg,		car, 		GTSAMG, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+613,	g63amg, 	g63amg, 	car,		G63AMG, 	G63AMG, 	null,	richfamily,	6,	7,	0,		-1, 0.90, 0.90,		0
+614,	rs6,		rs6,		car, 		RS6, 		RS6, 	null,	richfamily,	7, 	0,	0,		-1, 0.7, 0.7,		1
+662, 	bmwxfive, 	bmwxfive, 	car, 		BMWXFIVE,	BMWXFIVE, 	null,   normal,     10, 0,  0,       1, 1.0, 1.0,       0
+663, 	chevcor,	chevcor,	car, 		CHEVCOR,	CHEVCOR, 	null,	normal,		5, 	0,	0,		-1, 0.8, 0.8,		-1
+665, 	checruz,	checruz, 	car, 		CHECRUZ, 	CHECRUZ, 	null,	normal,		10, 	0,	0,		-1, 0.72, 0.72,		0
+666,	lexlx, 		lexlx, 		car,		LEXLX, 		LEXLX, 		null,	normal,		10,	0,	0,		-1, 0.88, 0.88,		0
+667,	porche911,	porche911,	car, 		PORCHE911,	PORCHE911, 	null,	executive, 	5, 	0,	2ff0,		-1, 0.82, 0.82,		0
+668, 	pcayenne, 	pcayenne, 	car, 		PCAYENNE, 	PCAYENNE, 	null,	richfamily,	5, 	0,	1f10,		-1, 0.87, 0.87,		2
+699,	bentley,	bentley,	car, 		BENTLEY, 	BENTLEY, 	null,	richfamily, 	7, 	0,	0,		-1, 0.84, 0.84,		1
+793,	bmwm8,		bmwm8,		car, 		BMWM, 		BMWM, 		null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+794,	e63,		e63,		car, 		E63, 		E63, 		null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+909, 	merss63, 	merss63, 	car, 		MERSS, 		MERSS, 		null,	richfamily,	2, 	0,	0,		-1, 0.85, 0.85,		0
+965,	tuareg, 	tuareg, 	car,		TUAREG, 	TUAREG, 	null,	normal,		10,	0,	0,		-1, 0.90, 0.90,		0
+1194,	urus, 		urus, 		car,		URUS, 		URUS, 		null,	normal,		10,	0,	0,		-1, 0.90, 0.90,		0
+1195, 	aqeight, 	aqeight, 	car, 		AQEIGHT, 	AQEIGHT, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+1196, 	dodgcha, 	dodgcha, 	car, 		DODGCHA, 	DODGCHA, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+1197, 	acurnsx, 	acurnsx, 	car, 		ACURNSX, 	ACURNSX, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+1198, 	volvov, 	volvov, 	car, 		VOLVOV, 	VOLVOV, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+1199, 	rangrove, 	rangrove, 	car, 		RANGROVE, 	RANGROVE, 	null,	normal,		10, 	0,	0,		-1, 0.83, 0.83,		2
+1200, 	civtr, 		civtr, 		car, 		CIVTR, 		CIVTR, 		null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		288
+1201, 	lexis, 		lexis, 		car, 		LEXIS, 		LEXIS, 		null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+1202, 	mustang, 	mustang, 	car, 		MUSTANG, 	MUSTANG, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+1203, 	volvoxc, 	volvoxc, 	car, 		VOLVOXC, 	VOLVOXC, 	null,	normal,		10, 	0,	0,		-1, 0.82, 0.82,		2
+1204, 	jagfp, 		jagfp, 		car, 		JAGFP, 		JAGFP, 		null,	normal,		10, 	0,	0,		-1, 0.82, 0.82,		2
+1205, 	optima, 	optima, 	car, 		OPTIMA, 	OPTIMA, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+3155, 	bmwzf, 		bmwzf, 		car, 		BMWZF, 		BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+3156,	kaban, 		kaban,	 	car, 		KABAN, 		SENTINL, 	null,	richfamily, 10, 	0,	0,		-1, 0.77, 0.77,		2
+3157, 	bmwxf, 		bmwxf, 		car, 		BMWXF,	 	SABRE, 		null,   normal,     10,     0,  0,      -1, 0.85, 0.85,     0
+3158,	ngtr34,		ngtr34,		car, 		NGTR34,	 	ELEGY, 		null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+3194,	diavel,		diavel,		bike,		DIAVEL,		NRG500,		bikes,	motorbike,	10,	0,	1f341210,		16, 0.68, 0.68,		-1
+3195, 	ducati,		ducati,		bike,		DUCATI,		NRG500,		bikes,	motorbike,	10,	0,	1f341210,		16, 0.68, 0.68,		-1
+3196, 	ducnaked,	ducnaked,	bike,		DUCNAKED,	NRG500,		bikes,	motorbike,	10,	0,	1f341210,		16, 0.68, 0.68,		-1
+3197, 	zx10rr,		zx10rr,		bike,		ZX10RR,		NRG500,		bikes,	motorbike,	10,	0,	1f341210,		16, 0.68, 0.68,		-1
+3198, 	western,	western,	bike,		WESTERN,	FREEWAY,	wayfarer,motorbike,	6,	0,	0,		23, 0.72, 0.665,	-1
+3199, 	rr,			rr,			car, 		RR, 		HUNTLEY, 	null,	richfamily,		6,	7,	0,	-1, 0.90, 0.90,		0
+3200,	beetle, 	beetle, 	car, 		BEETLE, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.68, 0.68,		0
+3201,	bugdivo, 	bugdivo, 	car, 		BUGDIVO, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.8, 0.8,		0
+3202,	chiron, 	chiron, 	car, 		CHIRON, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.8, 0.8,		0
+3203,	fiat500, 	fiat500, 	car, 		FIAT500, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.67, 0.67,		0
+3204,	gls2020, 	gls2020, 	car, 		GLS2020, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.78, 0.78,		0
+3205,	huntold, 	huntold, 	car, 		HUNTOLD, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.9, 0.9,		0
+3206,	lambsvj, 	lambsvj, 	car, 		LAMBSVJ, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.75, 0.75,		0
+3207,	landsva, 	landsva, 	car, 		LANDSVA, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.87, 0.87,		0
+3208,	bmw530i, 	bmw530i, 	car, 		BMW530I, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.77, 0.77,		0
+3209,	mbw221, 	mbw221, 	car, 		MBW221, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.73, 0.73,		0
+3210,	modelx, 	modelx, 	car, 		MODELX, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.8, 0.8,		0
+3211,	nisleaf, 	nisleaf, 	car, 		NISLEAF, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.7, 0.7,		0
+3212,	nssilvia, 	nssilvia, 	car, 		NSSILVIA, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.76, 0.76,		0
+3213,	sbforest, 	sbforest, 	car, 		SBFOREST, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.76, 0.76,		0
+3215,	sblegasy, 	sblegasy, 	car, 		SBLEGASY, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.76, 0.76,		0
+3216,	sonata, 	sonata, 	car, 		SONATA, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.77, 0.77,		0
+3217,	bmwe38, 	bmwe38, 	car, 		BMWE38, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.88, 0.88,		0
+3218,	mbe55, 		mbe55, 		car, 		MBE55, 		LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.91, 0.91,		0
+3219,	mbe500, 	mbe500, 	car, 		MBE500, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.91, 0.91,		0
+3220,	jstorm, 	jstorm, 	car, 		JSTORM, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.91, 0.91,		0
+3222,	lighmcq, 	lighmcq, 	car, 		LIGHMCQ, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.91, 0.91,		0
+3223,	mater, 		mater, 		car, 		MATER, 	 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.82, 0.82,		0
+3224,	buckingham, buckingham, heli, 		MAVERICK,	MAVERIC,	null,	ignore,		10,	0,	0,		-1, 0.70, 0.70,		-1
+3232,	infinity, 	infinity, 	car, 		INFINITY, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.91, 0.91,		0
+3233,	lexrx, 		lexrx, 		car, 		LEXRX,	 	SABRE, 		null,   normal,     10, 0,  0,      -1, 0.88, 0.88,     0
+3234,	sportage,	sportage,	car, 		SPORTAGE,  	SULTAN, 	null,	richfamily, 7, 	0,	0,		-1, 0.84, 0.84,		1
+3235,	vwgolf, 	vwgolf, 	car, 		VWGOLF, 	BUFFALO, 	null,	normal,		10, 0,	0,		-1, 0.77, 0.77,		2
+3236,	audir8, 	audir8, 	car, 		AUDIR8, 	LANDSTK, 	null,	executive, 	5, 	0,	0,		-1, 0.7, 0.7,		0
+3237,	camry,	 	camry,	 	car, 		CAMRY,	 	SAVANNA, 	null,	poorfamily,	7, 	0,	2ff0,	-1, 0.75, 0.75,		2
+3238,	cumry,  	cumry, 		car, 		CUMRY, 		LANDSTK, 	null,	poorfamily,	7, 	0,	2ff0,	-1, 0.75, 0.75,		2
+3239,	m5e60, 	 	m5e60, 		car, 		M5E60, 		LANDSTK,	null,	normal,		10, 0,	0,		-1, 0.77, 0.77,		0
+3240,	m5f90,	 	m5f90, 		car, 		M5F90, 		LANDSTK, 	null,	normal,		10, 0,	0,		-1, 0.77, 0.77,		2
+3245,	maybach,	maybach, 	car, 		MAYBACH, 	MAYBACH, 	null,	normal,		10, 0,	0,		-1, 0.74, 0.74,		0
+3247, 	mbamggt,	mbamggt,	car, 		MBAMGGT,	LANDSTK, 	null,	executive,	4, 	0,	0,		-1, 0.8, 0.8,		0
+3248,	panamera,	panamera, 	car, 		PANAMERA, 	LANDSTK, 	null,	executive, 	5,	0,	0,		-1, 0.78, 0.78,		-1
+3251,	passat, 	passat, 	car, 		PASSAT, 	LANDSTK, 	null,	richfamily, 10,	0,	0,		-1, 0.78, 0.78,		-1
+3254, 	corvett1980, 	corvett1980, 	car, 		CCORVETTE, 	BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 0.82, 0.82,		2
+3266, 	dodgesrt, 	dodgesrt, 	car, 		DODGDES, 	BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 1.0, 1.0,		2
+3348, 	gt500, 		gt500, 		car, 		GT500, 	  	BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 0.82, 0.82,		2
+3974,	amdb5,		amdb5,		car, 		AMDB5,  	SULTAN, 	null,	richfamily, 	7, 	0,	0,		-1, 0.72, 0.72,		1
+4542,	m3gtr,		m3gtr,		car, 		M3GTR,	 	ELEGY, 		null,	richfamily, 	7, 	0,	0,		-1, 0.72, 0.72,		1
+4543,	camaros, 	camaros, 	car, 		CAMAROS, 	BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 0.73, 0.73,		2
+4544,	mrx7,		mrx7,		car, 		MRX7,	 	ELEGY, 		null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+4545,	mrx8,		mrx8,		car, 		MRX8,	 	ELEGY, 		null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+4546,	eclipse, 	eclipse, 	car, 		ECLIPCE, 	BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+4547,	mustold, 	mustold, 	car, 		MUSTOLD, 	BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+4548,	n350z,		n350z,		car, 		N350Z,	 	ELEGY, 		null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+4774,	760li,		760li,		car, 		760LI, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4775,	one77,		one77,		car, 		ONE77, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4776,	bacalars,	bacalars,	car, 		BACCALAR, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4777,	bentayga,	bentayga,	car, 		BENTAYGA, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.82, 0.82,		1
+4778,	m4comp,		m4comp,		car, 		M4COMP, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4779,	bmwi8,		bmwi8,		car, 		BMWI8, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4780,	gg90,		gg90,		car, 		GG90, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4781,	intergenh,	intergenh,	car, 		INTEGRA, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4782,	m3g20,		m3g20,		car, 		M3G20,	 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4783,	s500w223,	s500w223,	car, 		S500W223,	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4784,	rptr,		rptr,		car, 		RPTR, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 1.1, 1.1,		1
+4785,	frj50,		frj50,		car, 		FRJ50,		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4786,	slr,		slr,		car, 		SLR,		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4787,	subbrzz,	subbrzz,	car, 		BRZ,		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4788,	swcross,	swcross,	car, 		SWCROSS,	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4789,	taycan,		taycan,		car, 		TAYCAN,		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4790,	twfer,		twfer,		car, 		ENZO,		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4791,	uazpatriot,	uazpatriot,	car, 		UAZPAT, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.95, 0.95,		1
+4792,	volga,		volga,		car, 		VOLGA,		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4793,	xclass,		xclass,		car, 		XCLASS, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.95, 0.95,		1
+4794,	xfrr2012,	xfrr2012,	car, 		JAGA,		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4795,	rcshutle, 	rcshutle, 	plane, 		RCBARON, 	RCBARON, 	null,	ignore,		1,	0,	0,		-1, 0.25, 0.25,		-1
+4796,	doddcar,	doddcar,	car, 		DODDCAR, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4797,	crtsrt,		crtsrt,		car, 		CRTSRT, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4798,	fordexp,	fordexp,	car, 		FORDEXP, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4799,	frd150,		frd150,		car, 		FRD150, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 1.0, 1.0,		1
+4800, 	dltplan, 	dltplan, 	plane, 		DLTPLAN, 	DODO,		rustler,ignore,		4,	0,	0,		-1, 0.46, 1.0,		-1
+4801, 	seashark, 	seashark, 	boat, 		SEASHARK, 	ZSEASRK, 	quad,   normal, 	7, 	0, 	0
+4802,	copavent,	copavent,	car, 		COPAVENT, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+4803,	ferff,		ferff,		car, 		FERFF, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+6604,	audia6,		audia6,		car, 		AUDIA6, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+6605,	audiq7,		audiq7,		car, 		AUDIQ7, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+6606,	bmwm6,		bmwm6,		car, 		BMWM6, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+6607,	bnwm6,		bnwm6,		car, 		BNWM6, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+6608,	cla46,		cla46,		car, 		CLA46, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.7, 0.7,		1
+6609,	cls,		cls,		car, 		CLS, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.7, 0.7,		1
+6610,	haval,		haval,		car, 		HAVAL, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.9, 0.9,		1
+6611,	lc200,		lc200,		car, 		TLC200, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.82, 0.82,		1
+6612,	lincol,		lincol,		car, 		LINCOLN, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.82, 0.82,		1
+6613,	macan,		macan,		car, 		MACAN, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+6614,	matiz,		matiz,		car, 		MATIZ, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.7, 0.7,		1
+6615,	mb6x6,		mb6x6,		car, 		MB6X6, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.9, 0.9,		1
+6616,	mbe63,		mbe63,		car, 		MBE63, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+6617,	monster1, 	monster1, 	mtruck,		MONSTER1, 	MONSTB, 	truck,	ignore,		1,	0,	0,		-1, 1.5, 1.5,		-1
+6618,	monster2, 	monster2, 	mtruck,		MONSTER2, 	MONSTB, 	truck,	ignore,		1,	0,	0,		-1, 1.5, 1.5,		-1
+6619,	monster3, 	monster3, 	mtruck,		MONSTER3, 	MONSTB, 	truck,	ignore,		1,	0,	0,		-1, 1.5, 1.5,		-1
+6620,	monster4, 	monster4, 	mtruck,		MONSTER4, 	MONSTB, 	truck,	ignore,		1,	0,	0,		-1, 1.5, 1.5,		-1
+6621,	prado,		prado,		car, 		PRADO, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.82, 0.82,		1
+6622,	rav4,		rav4,		car, 		RAV4, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.82, 0.82,		1
+6623,	supa90,		supa90,		car, 		SUPAA90, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.82, 0.82,		1
+6624,	uazold,		uazold,		car, 		UAZOLD, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.82, 0.82,		1
+6625,	xc90,		xc90,		car, 		XC90, 	   	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.82, 0.82,		1
+12713,	mersgl, 	mersgl, 	car, 		MERSGL, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.91, 0.91,		0
+12714, 	laguna, 	laguna, 	car, 		LAGUNA, 	INFERNU, 	null,	executive, 	5, 	0,	0,		-1, 0.73, 0.73,		0
+12715, 	mercls, 	mercls, 	car, 		MERCLS, 	PREVION, 	null,	poorfamily,	10, 0,	0,		-1, 0.78, 0.78,		2
+12716, 	audirs5, 	audirs5, 	car, 		AUDIRS5, 	CABBIE, 	null,	taxi,	 	6, 	0,	1f10,		-1, 0.75, 0.75,		0
+12717,	cadesc, 	cadesc, 	car,		CADESC, 	RANCHER, 	null,	normal,		10,	0,	0,		-1, 0.88, 0.88,		0
+12718,	cybertr, 	cybertr, 	car, 		CYBERTR, 	SANDKIN, 	null,	ignore, 	4,	0,	0,		-1, 0.972, 0.972,	-1
+12719,	modelc, 	modelc, 	car, 		MODELC, 	HOTRINA, 	null,	ignore, 	1,	0,	4fff,		-1, 0.75, 0.75,		-1
+12720,	fordgt, 	fordgt, 	car, 		FORDGT, 	HOTRINB, 	null,	ignore, 	1,	0,	4fff,		-1, 0.75, 0.75,		-1
+12721, 	dviper, 	dviper, 	car, 		DVIPER, 	BLOODRA, 	BF_injection,	ignore,		1, 	0,	4fff,		-1, 0.75, 0.75,		-1
+12722, 	vwpolo, 	vwpolo, 	car, 		VWPOLO, 	REMING, 	null,	executive,	10, 	0,	0,		-1, 0.7, 0.7,		2
+12723, 	evoix, 	    evoix,   	car, 		EVOIX,	    MERIT, 	    null,	richfamily,	10, 	0,	0,		-1, 0.75, 0.75,		0
+12724,	ttrs,		ttrs,		car, 		TTRS, 		SULTAN, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+12725, 	actros, 	actros, 	car, 		ACTROS, 	RDTRAIN, 	truck,	worker,	 	5,	0,	0,		-1, 1.2, 1.2,		-1
+12726, 	aus4, 		aus4, 		car, 		AUDISF, 	MANANA, 	null,	poorfamily,	10, 	0,	0,		-1, 0.75, 0.75,		2
+12727,	bmw4s,		bmw4s,		car, 		BMW4S, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+12728,	cadesc07, 	cadesc07, 	car,		CADESC7, 	RANCHER, 	null,	normal,		10,	0,	0,		-1, 0.88, 0.88,		0
+12729, 	chaser, 	chaser, 	car, 		CHASER, 	SENTINL, 	null,	richfamily, 	10, 	0,	0,		-1, 0.77, 0.77,		2
+12730,	dacia, 		dacia, 		car, 		DACIA, 		LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.63, 0.63,		0
+12731, 	evox, 	    evox,   	car, 		EVOX,	    MERIT, 	    null,	richfamily,	10, 	0,	0,		-1, 0.75, 0.75,		0
+12732, 	impla64, 	impla64, 	car, 		IMPLA64, 	BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+12733, 	impla67, 	impla67, 	car, 		IMPLA67, 	BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+12734, 	kenwooth, 	kenwooth, 	car, 		KENWOO, 	RDTRAIN, 	truck,	worker,	 	5,	0,	0,		-1, 1.2, 1.2,		-1
+12735, 	kenwtrl, 	kenwtrl, 	trailer,	KENWTRL, 	ARTICT1, 	null,	ignore,	 	6,	0,	0,		-1, 1.1, 1.1,		-1
+12736,	macmp4, 	macmp4, 	car, 		MACMP4, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.75, 0.75,		0
+12737, 	mustm1, 	mustm1, 	car, 		MUSTM1, 	BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 0.77, 0.77,		2
+12738,	phantom,	phantom,	car, 		PHANTOM, 	JESTER, 	null,	richfamily, 	7, 	0,	0,		-1, 0.9, 0.9,		1
+12739, 	picup, 		picup, 		car, 		PICUP, 		BUFFALO, 	null,	normal,		10, 	0,	0,		-1, 1.0, 1.0,		2
+12740, 	volvotr, 	volvotr, 	car, 		VOLVOTR, 	RDTRAIN, 	truck,	worker,	 	5,	0,	0,		-1, 1.2, 1.2,		-1
+12741,	wrxsti,		wrxsti,		car, 		WRXSTI, 	SULTAN, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+12742,	sherp,		sherp,		quad, 		SHERP, 		QUAD,	 	quad, 	normal,		4,	0,	0,		-1, 0.75, 0.75,		-1
+12743, 	sanki, 		sanki, 		car, 		SANI,	 	SWEEPER,	null,	worker,		4,	0,	0,		-1, 0.9, 0.9,		-1
+14119,	a6krsh,		a6krsh,		car, 		A6KR, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+14120,	cumkrsh,  	cumkrsh, 	car, 		CUMRYKR, 	LANDSTK, 	null,	poorfamily,	7, 	0,	2ff0,	-1, 0.75, 0.75,		2
+14121,	kiakarsh,	kiakarsh,	car, 		KIAKR,  	SULTAN, 	null,	richfamily, 7, 	0,	0,		-1, 0.84, 0.84,		1	
+14122,	modxkrsh, 	modxkrsh, 	car, 		MODXKR, 	LANDSTK, 	null,	normal, 	10,	0,	0,		-1, 0.8, 0.8,		0
+14123,	rav4krsh,	rav4krsh,	car, 		RAV4KR, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.82, 0.82,		1
+14124,	gtr2017,	gtr2017,	car, 		GTR,	 	ELEGY, 		null,	richfamily, 	7, 	0,	0,		-1, 0.68, 0.68,		1
+14767,	amgone,		amgone,		car, 		AMGONE, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+14768,	valkyrie,	valkyrie,	car, 		VALKYRYE, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+14769,	aveo,		aveo,		car, 		AVEO, 		GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.65, 0.65,		1
+14857,	bugbol,		bugbol,		car, 		BUGBOL, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+14884,	buggys,		buggys,		car, 		BUGGYS, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		-1
+14899,	duster,		duster,		car, 		DUSTER, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+14904,	monza,		monza,		car, 		MONZA, 		GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+14905,	g630,		g630,		car, 		G63EGQ, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+14906,	hotwheels,	hotwheels,	car, 		HOTWHLS, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+14907,	humhx,		humhx,		car, 		HUMHX, 		GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 1.0, 1.0,		1
+14908,	laferr,		laferr,		car, 		LAFERR, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+14909,	m5cs,		m5cs,		car, 		M5CS, 		GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.8, 0.8,		1
+14910,	priora,		priora,		car, 		PRIORA, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.7, 0.7,		1
+14911,	quadra,		quadra,		car, 		QUADRA, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.7, 0.7,		1
+14912,	gle, 		gle, 		car, 		MERGLE, 	SLAMVAN, 	null,	normal, 		10,	0,	0,		-1, 0.88, 0.88,		0
+14913,	vision,		vision,		car, 		VISION, 	GTSAMG, 	null,	richfamily, 	7, 	0,	0,		-1, 0.87, 0.87,		1
+14914,	mntnbike,	mntnbike,	bmx, 		MTB1,	 	MTBIKE, 	mtb,	bicycle,	7,	0,	0,		23, 0.7, 0.7,		-1
+14915,	mntnbike2,	mntnbike2,	bmx, 		MTB2,	 	MTBIKE, 	mtb,	bicycle,	7,	0,	0,		23, 0.7, 0.7,		-1
+14916,	mtbbik,		mtbbik,		bmx, 		MTB3,	 	MTBIKE, 	mtb,	bicycle,	7,	0,	0,		23, 0.7, 0.7,		-1
+14917,	scrcher,	scrcher,	bmx, 		MTB4,	 	MTBIKE, 	mtb,	bicycle,	7,	0,	0,		23, 0.7, 0.7,		-1
+14918,	autobus1,	autobus1,	car, 		BUS1, 		GTSAMG, 	bus,	normal,	 	5, 	0,	0,		-1, 1, 1,		-1	
+14919,	autobus2,	autobus2,	car, 		BUS2, 		GTSAMG, 	bus,	normal,	 	5, 	0,	0,		-1, 1, 1,		-1
+15085,	charger,	charger,	car, 		CHARGER, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+15098, 	m1e26,		m1e26,		car, 	BMWM1, 		GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+15099,	countach,	countach,	car, 	COUNTACH, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+15100,	nagasaki, 	nagasaki, 	boat,	NAGASAKI,	DINGHY, 	null,	workerboat,	7,	0, 	0
+15101,	gemera,		gemera,		car, 	GEMERA, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.8, 0.8,		1
+15102,	kiak7,		kiak7,		car, 	KIAK7,	 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.68, 0.68,		1
+15103,	toro, 		toro, 		boat,	TORO,		SPEEDER, 	null,	leisureboat,	10,	0, 	4fff	
+15104,	lx600,		lx600,		car, 	LX600,  	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.85, 0.85,		1
+15105,	qashai,		qashai,		car, 	QUASHAI, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.75, 0.75,		1
+15106,	predatorr, 	predatorr, 	boat,	PREDATORR,	PREDATR, 	null,	ignore,		10,	0,	0
+15107,	scirroco,	scirroco,	car, 	SCIROCCO, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.75, 0.75,		1
+15108,	longfin, 	longfin, 	boat,	LONGFIN,	SPEEDER, 	null,	leisureboat,	10,	0, 	4fff	
+15109,	toyotagr,	toyotagr,	car, 	TLC300, 	GTSAMG, 	null,	richfamily, 7, 	0,	0,		-1, 0.83, 0.83,		1
+15110,	wellcraft, 	wellcraft, 	boat,	WLLCRFT,	SQUALO, 	null,	ignore,		10,	0, 	0,
+15111,	yacht, 		yacht, 		boat,	YACHT,		TROPIC, 	null,	leisureboat,	10,	0,	4fff
+15112,	boates, 	boates, 	boat,	BOATES,		REEFER, 	null,	workerboat,	10,	0,	3f01
+15113,  a45, 		a45, 		car, 	BANSHEE, 	BANSHEE, 	null, 	executive, 	5, 	0, 	0, -1, 0.87, 0.87, 0
+15114,  ae86, 		ae86, 		car, 	A45, 		ELEGY, 		null, 	richfamily, 7, 	0, 	0, -1, 0.68, 0.68, 1
+15115,  defender, 	defender, 	car, 	DEFENDER, 	LEXLX, 		null, 	normal, 	10, 0, 	0, -1, 0.9, 0.9, 0
+15116,  mach, 		mach, 		car, 	MACH, 		LANDSTK, 	null, 	normal, 	10, 0, 	0, -1, 0.8, 0.8, 0
+15117,  mazda6, 	mazda6, 	car, 	MAZDA6, 	RS6, 		null, 	richfamily, 7, 	0, 	0, -1, 0.73, 0.73, 1
+15118,  r8s, 		r8s, 		car, 	R8S, 		LANDSTK, 	null, 	executive, 	5, 	0, 	0, -1, 0.7, 0.7, 0
+15119,  santafe, 	santafe, 	car, 	SANTAFE, 	SULTAN, 	null, 	richfamily, 7, 	0, 	0, -1, 0.84, 0.84, 1
+15295,  velar, 		velar, 		car, 	VELAR, 		LEXLX,		null, 	normal, 	10, 0, 	0, -1, 0.9, 0.9, 0
+end
+
+# pubg.ide
+objs
+12598, obj9_helmet_1, sa_pubg, 300, 2097152
+12599, obj9_backp_1, sa_pubg, 300, 2097152
+12600, obj9_vest_1, sa_pubg, 300, 0
+12613, obj9_backp_1a, sa_pubg, 300, 2097152
+12614, obj9_backp_1b, sa_pubg, 300, 2097152
+12615, obj9_backp_1c, sa_pubg, 300, 2097152
+12616, obj9_backp_1d, sa_pubg, 300, 2097152
+12617, obj9_helmet_1a, sa_pubg, 300, 2097152
+12618, obj9_helmet_1b, sa_pubg, 300, 2097152
+12619, obj9_helmet_1c, sa_pubg, 300, 2097152
+12620, obj9_helmet_1d, sa_pubg, 300, 2097152
+12621, obj9_vest_1a, sa_pubg, 300, 0
+12622, obj9_vest_1b, sa_pubg, 300, 0
+12623, obj9_vest_1c, sa_pubg, 300, 0
+12624, obj9_vest_1d, sa_pubg, 300, 0
+end

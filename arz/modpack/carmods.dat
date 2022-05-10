@@ -1,0 +1,250 @@
+#
+# filename: 	carmods.dat
+#
+# description: 	List of cars and the mods that can be added to these cars
+#
+link
+bntl_b_ov, bntr_b_ov
+bntl_b_sq, bntr_b_sq
+wg_l_b_ssk, wg_r_b_ssk
+wg_l_c_j, wg_r_c_j
+wg_l_a_j, wg_r_a_j
+wg_l_a_f, wg_r_a_f
+wg_l_c_f, wg_r_c_f
+wg_l_a_s, wg_r_a_s
+wg_l_c_s, wg_r_c_s
+wg_l_a_u, wg_r_a_u
+wg_l_c_u, wg_r_c_u
+wg_l_a_l, wg_r_a_l
+wg_l_c_l, wg_r_c_l
+wg_l_a_st, wg_r_a_st
+wg_l_c_st, wg_r_c_st
+wg_l_lr_bl1, wg_r_lr_bl1
+wg_l_lr_br1, wg_r_lr_br1
+wg_l_lr_sv, wg_r_lr_sv
+wg_l_lr_rem1, wg_r_lr_rem1
+wg_l_lr_rem2, wg_r_lr_rem2
+wg_l_lr_slv1, wg_r_lr_slv1
+wg_l_lr_slv2, wg_r_lr_slv2
+wg_l_lr_t1, wg_r_lr_t1
+end
+
+
+mods
+
+admiral, nto_b_l, nto_b_s, nto_b_tw, hydralics
+alpha, nto_b_l, nto_b_s, nto_b_tw, hydralics
+banshee, nto_b_l, nto_b_s, nto_b_tw, hydralics
+blistac, rf_b_sc_r, wg_l_b_ssk, bnt_b_sc_p_m, exh_b_t, spl_b_bbb_m, spl_b_bab_m, nto_b_l, nto_b_s, nto_b_tw, spl_b_mab_m, spl_b_bar_m, bntl_b_ov, exh_b_l, hydralics
+bobcat, exh_b_l, exh_b_m, exh_b_t, lgt_b_rspt, nto_b_l, nto_b_s, nto_b_tw, wg_l_b_ssk, hydralics
+bravura, bnt_b_sc_l, bnt_b_sc_m, bntl_b_ov, bntl_b_sq, exh_b_l, exh_b_t, lgt_b_rspt, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+buccanee, bnt_b_sc_l, bntl_b_ov, bntl_b_sq, exh_b_l, exh_b_ts, lgt_b_rspt, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_bbb_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+buffalo, nto_b_s, nto_b_s, nto_b_tw, hydralics
+bullet, nto_b_l, nto_b_s, nto_b_tw, hydralics
+cabbie, nto_b_l, nto_b_s, nto_b_tw, hydralics
+cadrona, exh_b_m, exh_b_l, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bab_m, spl_b_bar_l, spl_b_bbr_l, wg_l_b_ssk, hydralics
+cheetah, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bab_m, spl_b_bbb_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+clover, bntl_b_sq, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bar_l, spl_b_bbr_l, hydralics
+club, bnt_b_sc_l, bnt_b_sc_m, bntl_b_sq, exh_b_l, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, lgt_b_sspt, lgt_b_rspt, rf_b_sc_r, spl_b_bbr_m, spl_b_mar_m, wg_l_b_ssk, hydralics
+comet, nto_b_l, nto_b_s, nto_b_tw, hydralics
+elegant, nto_b_l, nto_b_s, nto_b_tw, hydralics
+emperor, bntl_b_ov, bntl_b_sq, exh_b_l, exh_b_t, exh_b_ts, lgt_b_rspt, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_bbb_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+esperant, nto_b_l, nto_b_s, nto_b_tw, hydralics
+euros, nto_b_l, nto_b_s, nto_b_tw, hydralics
+feltzer, nto_b_l, nto_b_s, nto_b_tw, hydralics
+fortune, nto_b_l, nto_b_s, nto_b_tw, hydralics
+glendale, nto_b_l, nto_b_s, nto_b_tw, hydralics
+greenwoo, bnt_b_sc_l, bnt_b_sc_m, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bbr_m, spl_b_mar_m, hydralics
+hermes, nto_b_l, nto_b_s, nto_b_tw, hydralics
+huntley, nto_b_l, nto_b_s, nto_b_tw, hydralics
+hustler, nto_b_l, nto_b_s, nto_b_tw, hydralics
+infernus, nto_b_s, nto_b_l, nto_b_tw, hydralics
+intruder, bnt_b_sc_m, bntl_b_ov, bntl_b_sq, exh_b_t, exh_b_ts, lgt_b_sspt, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bar_m, spl_b_bab_m, spl_b_bbb_m, wg_l_b_ssk, hydralics
+landstal, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, lgt_b_rspt, lgt_b_sspt, nto_b_l, nto_b_s, nto_b_tw, hydralics
+majestic, bntl_b_ov, bntl_b_sq, exh_b_l, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bar_m, spl_b_bbb_m, spl_b_bbr_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+manana, exh_b_t, exh_b_m, exh_b_l, lgt_b_rspt, lgt_b_sspt, nto_b_l, nto_b_s, nto_b_tw, spl_b_bab_m, spl_b_bbb_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+merit, bnt_b_sc_l, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bar_m, spl_b_bbb_m, spl_b_bbr_m, spl_b_mab_m, hydralics
+mesa, exh_b_l, exh_b_m, exh_b_t, lgt_b_rspt, lgt_b_sspt, nto_b_l, nto_b_s, nto_b_tw, hydralics
+moonbeam, exh_b_l, exh_b_m, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bar_m, spl_b_bbr_m, hydralics
+nebula, bnt_b_sc_m, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bar_m, spl_b_bbr_l, spl_b_bbr_m, spl_b_mar_m, wg_l_b_ssk, hydralics
+oceanic, nto_b_l, nto_b_s, nto_b_tw, hydralics
+peren, exh_b_l, exh_b_m, exh_b_t, lgt_b_rspt, nto_b_l, nto_b_s, nto_b_tw, spl_b_bar_m, spl_b_bbr_m, spl_b_mar_m, wg_l_b_ssk, hydralics
+phoenix, bntl_b_sq, bntl_b_ov, exh_b_l, exh_b_t, exh_b_ts, lgt_b_sspt, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_bbb_m, wg_l_b_ssk, hydralics
+picador, bnt_b_sc_l, bnt_b_sc_m, exh_b_l, exh_b_s, exh_b_ts, lgt_b_rspt, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, wg_l_b_ssk, hydralics
+premier, bnt_b_sc_l, bnt_b_sc_m, exh_b_m, exh_b_t, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_mab_m, hydralics
+previon, exh_b_l, exh_b_m, exh_b_s, exh_b_t, lgt_b_rspt, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+primo, bntl_b_ov, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bbr_m, spl_b_mab_m, spl_b_mar_m, hydralics
+rancher, bnt_b_sc_l, bnt_b_sc_m, exh_b_l, exh_b_t, exh_b_ts, lgt_b_rspt, lgt_b_sspt, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bar_m, spl_b_bbr_m, spl_b_mar_m, hydralics
+regina, nto_b_l, nto_b_s, nto_b_tw, hydralics
+romero, nto_b_l, nto_b_s, nto_b_tw, hydralics
+sabre, nto_b_l, nto_b_s, nto_b_tw, hydralics
+sentinel, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bab_m, spl_b_bar_l, spl_b_bbb_m, spl_b_mar_m, hydralics
+solair, nto_b_l, nto_b_s, nto_b_tw, hydralics
+stafford, exh_b_l, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_bbb_m, wg_l_b_ssk, hydralics
+stallion, spl_b_mab_m, spl_b_bbb_m, spl_b_bab_m, nto_b_l, nto_b_s, nto_b_tw, wg_l_b_ssk, bntl_b_ov, bntl_b_sq, lgt_b_rspt, hydralics
+stretch, nto_b_s, hydralics
+sunrise, bnt_b_sc_l, bnt_b_sc_m, bntl_b_ov, bntl_b_sq, exh_b_l, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_bbb_m, spl_b_mab_m, hydralics
+supergt, nto_b_s, hydralics
+tahoma, nto_b_l, nto_b_s, nto_b_tw, hydralics
+tampa, bnt_b_sc_p_l, bnt_b_sc_p_m, bntl_b_ov, bntl_b_sq, exh_b_l, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bab_m, spl_b_bbb_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+taxi, bnt_b_sc_l, bnt_b_sc_m, exh_b_m, exh_b_t, nto_b_l, nto_b_s, nto_b_tw, spl_b_bab_m, spl_b_mab_m, hydralics
+turismo, nto_b_l, nto_b_s, nto_b_tw, hydralics
+vincent, bnt_b_sc_m, bntl_b_ov, bntl_b_sq, exh_b_l, exh_b_t, exh_b_ts, lgt_b_sspt, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_bbb_m, wg_l_b_ssk, hydralics
+virgo, bntl_b_ov, bntl_b_sq, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bar_l, spl_b_bbb_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+voodoo, nto_b_l, nto_b_s, nto_b_tw, hydralics
+walton, bnt_b_sc_l, bnt_b_sc_m, bnt_b_sc_p_l, exh_b_l, exh_b_m, exh_b_s, lgt_b_rspt, lgt_b_sspt, nto_b_l, nto_b_s, nto_b_tw, hydralics
+washing, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, spl_b_bar_l, spl_b_bbb_m, spl_b_bbr_m, spl_b_mar_m, hydralics
+willard, bnt_b_sc_p_l, bnt_b_sc_p_m, exh_b_l, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, spl_b_bab_m, spl_b_bbb_m, spl_b_mab_m, wg_l_b_ssk, hydralics
+windsor, nto_b_l, nto_b_s, nto_b_tw, hydralics
+zr350, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw, rf_b_sc_r, wg_l_b_ssk, hydralics
+
+elegy, exh_a_l, exh_c_l, fbmp_a_l, fbmp_c_l, nto_b_l, nto_b_s, nto_b_tw, rbmp_a_l, rbmp_c_l, rf_a_l, rf_c_l, spl_a_l_b, spl_c_l_b, wg_l_a_l, wg_l_c_l, hydralics
+flash, exh_a_f, exh_c_f, fbmp_a_f, fbmp_c_f, nto_b_l, nto_b_s, nto_b_tw, rbmp_a_f, rbmp_c_f, rf_a_f, rf_c_f, spl_a_f_r, spl_c_f_r, wg_l_a_f, wg_l_c_f, hydralics
+jester, exh_a_j, exh_c_j, fbmp_a_j, fbmp_c_j, nto_b_l, nto_b_s, nto_b_tw, rbmp_a_j, rbmp_c_j, spl_a_j_b, spl_c_j_b, rf_a_j, rf_c_j, wg_l_a_j, wg_l_c_j, nto_b_s, hydralics
+stratum, exh_a_st, exh_c_st, fbmp_a_st, fbmp_c_st, nto_b_l, nto_b_s, nto_b_tw, rbmp_a_st, rbmp_c_st, rf_a_st, rf_c_st, spl_a_st_r, spl_c_st_r, wg_l_a_st, wg_l_c_st, hydralics
+sultan, exh_a_s, exh_c_s, fbmp_a_s, fbmp_c_s, nto_b_l, nto_b_s, nto_b_tw, rbmp_a_s, rbmp_c_s, rf_a_s, rf_c_s, spl_a_s_b, spl_c_s_b, wg_l_a_s, wg_l_c_s, hydralics
+uranus, exh_a_u, exh_c_u, fbmp_a_u, fbmp_c_u, nto_b_l, nto_b_s, nto_b_tw, rbmp_a_u, rbmp_c_u, rf_a_u, rf_c_u, spl_a_u_b, spl_c_u_b, wg_l_a_u, wg_l_c_u, hydralics
+
+blade, exh_lr_bl1, exh_lr_bl2, fbmp_lr_bl1, fbmp_lr_bl2, nto_b_l, nto_b_s, nto_b_tw, rbmp_lr_bl1, rbmp_lr_bl2, rf_lr_bl1, rf_lr_bl2, wg_l_lr_bl1, hydralics
+broadway, exh_lr_br1, exh_lr_br2, fbmp_lr_br1, fbmp_lr_br2, nto_b_l, nto_b_s, nto_b_tw, rbmp_lr_br1, rbmp_lr_br2, wg_l_lr_br1, hydralics
+remingtn, exh_lr_rem1, exh_lr_rem2, fbmp_lr_rem1, fbmp_lr_rem2, misc_c_lr_rem1, misc_c_lr_rem2, misc_c_lr_rem3, nto_b_l, nto_b_s, nto_b_tw, rbmp_lr_rem1, rbmp_lr_rem2, wg_l_lr_rem1, wg_l_lr_rem2, hydralics
+savanna, exh_lr_sv1, exh_lr_sv2, fbmp_lr_sv1, fbmp_lr_sv2, nto_b_l, nto_b_s, nto_b_tw, rbmp_lr_sv1, rbmp_lr_sv2, rf_lr_sv1, rf_lr_sv2, wg_l_lr_sv, hydralics
+slamvan, bbb_lr_slv1, bbb_lr_slv2, exh_lr_slv1, exh_lr_slv2, fbb_lr_slv1, fbb_lr_slv2, fbmp_lr_slv1, nto_b_l, nto_b_s, nto_b_tw, wg_l_lr_slv1, wg_l_lr_slv2, hydralics
+tornado, exh_lr_t1, exh_lr_t2, fbmp_lr_t1, fbmp_lr_t2, nto_b_l, nto_b_s, nto_b_tw, rbmp_lr_t1, rbmp_lr_t2, wg_l_lr_t1, hydralics
+760li, bnt_b_760li_a, bnt_b_760li_b, bnt_b_760li_c, bnt_b_760li_d, bnt_b_760li_e, rbmp_760li_a, rbmp_760li_b, rbmp_760li_c, rbmp_760li_d, rbmp_760li_e, spl_b_760li_a, spl_b_760li_b, spl_b_760li_c, spl_b_760li_d, spl_b_760li_e, nto_b_tw
+bacalars, bnt_b_bacalars_a, bnt_b_bacalars_b, bnt_b_bacalars_c, bnt_b_bacalars_d, bnt_b_bacalars_e, rbmp_bacalars_a, rbmp_bacalars_b, rbmp_bacalars_c, rbmp_bacalars_d, rbmp_bacalars_e, spl_b_bacalars_a, spl_b_bacalars_b, spl_b_bacalars_c, spl_b_bacalars_d, spl_b_bacalars_e, nto_b_tw
+beetle, bnt_b_beetle_a
+bentayga, bnt_b_bentayga_a, bnt_b_bentayga_b, bnt_b_bentayga_c, bnt_b_bentayga_d, bnt_b_bentayga_e, rbmp_bentayga_a, rbmp_bentayga_b, rbmp_bentayga_c, rbmp_bentayga_d, rbmp_bentayga_e, spl_b_bentayga_a, spl_b_bentayga_b, spl_b_bentayga_c, spl_b_bentayga_d, spl_b_bentayga_e, nto_b_tw
+bmwe38, bnt_b_bmwe38_a
+bmwi8, bnt_b_bmwi8_a, bnt_b_bmwi8_b, bnt_b_bmwi8_c, bnt_b_bmwi8_d, bnt_b_bmwi8_e, spl_b_bmwi8_a, spl_b_bmwi8_b, spl_b_bmwi8_c, spl_b_bmwi8_d, spl_b_bmwi8_e, nto_b_tw
+bmwm8, bnt_b_bmwm8_a, bnt_b_bmwm8_b, bnt_b_bmwm8_c, bnt_b_bmwm8_d, bnt_b_bmwm8_e, rbmp_bmwm8_a, rbmp_bmwm8_b, rbmp_bmwm8_c, rbmp_bmwm8_d, rbmp_bmwm8_f, spl_b_bmwm8_a, spl_b_bmwm8_b, spl_b_bmwm8_c, spl_b_bmwm8_d, spl_b_bmwm8_e, nto_b_tw
+bmwxf, bnt_b_bmwxf_a, bnt_b_bmwxf_b, bnt_b_bmwxf_c, bnt_b_bmwxf_d, bnt_b_bmwxf_e, rbmp_bmwxf_a, rbmp_bmwxf_b, rbmp_bmwxf_c, rbmp_bmwxf_d, rbmp_bmwxf_f, spl_b_bmwxf_a, spl_b_bmwxf_b, spl_b_bmwxf_c, spl_b_bmwxf_d, spl_b_bmwxf_e, nto_b_tw
+bmwzf, bnt_b_bmwzf_a, bnt_b_bmwzf_b, bnt_b_bmwzf_c, bnt_b_bmwzf_d, bnt_b_bmwzf_e, rbmp_bmwzf_a, rbmp_bmwzf_b, rbmp_bmwzf_c, rbmp_bmwzf_d, rbmp_bmwzf_f, spl_b_bmwzf_a, spl_b_bmwzf_b, spl_b_bmwzf_c, spl_b_bmwzf_d, spl_b_bmwzf_e, nto_b_tw
+bugdivo, bnt_b_bugdivo_a, bnt_b_bugdivo_b, bnt_b_bugdivo_c, bnt_b_bugdivo_d, bnt_b_bugdivo_e, rbmp_bugdivo_a, rbmp_bugdivo_b, rbmp_bugdivo_c, rbmp_bugdivo_d, rbmp_bugdivo_f, nto_b_tw
+camry, bnt_b_camry_a, bnt_b_camry_b, bnt_b_camry_c, bnt_b_camry_d, bnt_b_camry_e, rbmp_camry_a, rbmp_camry_b, rbmp_camry_c, rbmp_camry_d, rbmp_camry_f, spl_b_camry_a, spl_b_camry_b, spl_b_camry_c, spl_b_camry_d, spl_b_camry_e, nto_b_tw
+checruz, bnt_b_checruz_a, bnt_b_checruz_b, bnt_b_checruz_c, bnt_b_checruz_d, bnt_b_checruz_e, rbmp_checruz_a, rbmp_checruz_b, rbmp_checruz_c, rbmp_checruz_d, rbmp_checruz_f, spl_b_checruz_a, spl_b_checruz_b, spl_b_checruz_c, spl_b_checruz_d, spl_b_checruz_e, nto_b_tw
+chiron, bnt_b_chiron_a, bnt_b_chiron_b, bnt_b_chiron_c, bnt_b_chiron_d, bnt_b_chiron_g, rbmp_chiron_a, rbmp_chiron_b, rbmp_chiron_c, rbmp_chiron_d, rbmp_chiron_f, nto_b_tw
+civtr, bnt_b_civtr_a, bnt_b_civtr_b, bnt_b_civtr_c, bnt_b_civtr_d, bnt_b_civtr_e, rbmp_civtr_a, rbmp_civtr_b, rbmp_civtr_c, rbmp_civtr_d, rbmp_civtr_f, spl_b_civtr_a, spl_b_civtr_b, spl_b_civtr_c, spl_b_civtr_d, spl_b_civtr_e, nto_b_tw
+cumry, bnt_b_cumry_a, bnt_b_cumry_b, bnt_b_cumry_c, bnt_b_cumry_d, bnt_b_cumry_e, rbmp_cumry_a, rbmp_cumry_b, rbmp_cumry_c, rbmp_cumry_d, rbmp_cumry_f, spl_b_cumry_a, spl_b_cumry_b, spl_b_cumry_c, spl_b_cumry_d, spl_b_cumry_e, nto_b_tw
+dodgcha, bnt_b_dodgcha_a, bnt_b_dodgcha_b, bnt_b_dodgcha_c, bnt_b_dodgcha_d, bnt_b_dodgcha_e, rbmp_dodgcha_a, rbmp_dodgcha_b, rbmp_dodgcha_c, rbmp_dodgcha_d, rbmp_dodgcha_f, spl_b_dodgcha_a, spl_b_dodgcha_b, spl_b_dodgcha_c, spl_b_dodgcha_d, spl_b_dodgcha_e, nto_b_tw
+fiat500, bnt_b_fiat500_a, bnt_b_fiat500_b, bnt_b_fiat500_c, bnt_b_fiat500_d, bnt_b_fiat500_e, rbmp_fiat500_a, rbmp_fiat500_b, rbmp_fiat500_c, rbmp_fiat500_d, rbmp_fiat500_f, spl_b_fiat500_a, spl_b_fiat500_b, spl_b_fiat500_c, spl_b_fiat500_d, spl_b_fiat500_e, nto_b_tw
+frj50, bnt_b_frj50_a, bnt_b_frj50_b, bnt_b_frj50_c, bnt_b_frj50_d, bnt_b_frj50_e, rbmp_frj50_a, rbmp_frj50_b, rbmp_frj50_c, rbmp_frj50_d, rbmp_frj50_e, spl_b_frj50_a, spl_b_frj50_b, spl_b_frj50_d, spl_b_frj50_e, spl_b_frj50_f, nto_b_tw
+g63amg, bnt_b_g63amg_a, bnt_b_g63amg_b, bnt_b_g63amg_c, bnt_b_g63amg_d, bnt_b_g63amg_e, rbmp_g63amg_a, rbmp_g63amg_b, rbmp_g63amg_c, rbmp_g63amg_d, rbmp_g63amg_f, spl_b_g63amg_a, spl_b_g63amg_b, spl_b_g63amg_c, spl_b_g63amg_d, spl_b_g63amg_e, nto_b_tw
+gg90, bnt_b_gg90_a, bnt_b_gg90_b, bnt_b_gg90_c, bnt_b_gg90_d, bnt_b_gg90_e, rbmp_gg90_a, rbmp_gg90_b, rbmp_gg90_c, rbmp_gg90_d, rbmp_gg90_e, spl_b_gg90_a, spl_b_gg90_b, spl_b_gg90_c, spl_b_gg90_d, spl_b_gg90_e, nto_b_tw
+gls2020, bnt_b_gls2020_a, bnt_b_gls2020_b, bnt_b_gls2020_c, rbmp_gls2020_a, rbmp_gls2020_b, rbmp_gls2020_c, rbmp_gls2020_d, rbmp_gls2020_f, spl_b_gls2020_a, spl_b_gls2020_b, nto_b_tw
+gtsamg, bnt_b_gtsamg_a, bnt_b_gtsamg_b, bnt_b_gtsamg_c, bnt_b_gtsamg_d, bnt_b_gtsamg_e, rbmp_gtsamg_a, rbmp_gtsamg_b, rbmp_gtsamg_c, rbmp_gtsamg_d, rbmp_gtsamg_f, spl_b_gtsamg_a, spl_b_gtsamg_b, spl_b_gtsamg_c, spl_b_gtsamg_d, spl_b_gtsamg_e, nto_b_tw
+huntold, bnt_b_huntold_a
+infinity, bnt_b_infinity_a, bnt_b_infinity_b, bnt_b_infinity_c, bnt_b_infinity_d, bnt_b_infinity_e, rbmp_infinity_a, rbmp_infinity_b, rbmp_infinity_c, rbmp_infinity_d, rbmp_infinity_f, spl_b_infinity_a, spl_b_infinity_b, spl_b_infinity_c, spl_b_infinity_d, spl_b_infinity_e, nto_b_tw
+intergenh, bnt_b_intgra_a, bnt_b_intgra_b, bnt_b_intgra_c, bnt_b_intgra_d, bnt_b_intgra_e, rbmp_intgra_a, rbmp_intgra_b, rbmp_intgra_c, rbmp_intgra_d, rbmp_intgra_e, spl_b_intgra_a, spl_b_intgra_b, spl_b_intgra_c, spl_b_intgra_d, spl_b_intgra_e, nto_b_tw
+jagfp, bnt_b_jagfp_a, bnt_b_jagfp_b, bnt_b_jagfp_c, bnt_b_jagfp_d, bnt_b_jagfp_e, rbmp_jagfp_a, rbmp_jagfp_b, rbmp_jagfp_c, rbmp_jagfp_d, rbmp_jagfp_f, spl_b_jagfp_a, spl_b_jagfp_b, spl_b_jagfp_c, spl_b_jagfp_d, spl_b_jagfp_e, nto_b_tw
+kaban, bnt_b_kaban_a, bnt_b_kaban_b, bnt_b_kaban_c, bnt_b_kaban_d, bnt_b_kaban_e, rbmp_kaban_a, rbmp_kaban_b, rbmp_kaban_c, rbmp_kaban_d, rbmp_kaban_f, spl_b_kaban_a, spl_b_kaban_b, spl_b_kaban_c, spl_b_kaban_d, spl_b_kaban_e, nto_b_tw
+landsva, bnt_b_landsva_a
+lexis, bnt_b_lexis_a, bnt_b_lexis_b, bnt_b_lexis_c, bnt_b_lexis_d, bnt_b_lexis_e, rbmp_lexis_a, rbmp_lexis_b, rbmp_lexis_c, rbmp_lexis_d, rbmp_lexis_f, spl_b_lexis_a, spl_b_lexis_b, spl_b_lexis_c, spl_b_lexis_d, spl_b_lexis_e, nto_b_tw
+lexlx, bnt_b_lexlx_a, bnt_b_lexlx_b, bnt_b_lexlx_c, bnt_b_lexlx_d, bnt_b_lexlx_e, rbmp_lexlx_a, rbmp_lexlx_b, rbmp_lexlx_c, rbmp_lexlx_d, rbmp_lexlx_f, spl_b_lexlx_a, spl_b_lexlx_b, spl_b_lexlx_c, spl_b_lexlx_d, spl_b_lexlx_e, nto_b_tw
+lexrx, bnt_b_lexrx_a, bnt_b_lexrx_b, bnt_b_lexrx_c, bnt_b_lexrx_d, bnt_b_lexrx_e, rbmp_lexrx_a, rbmp_lexrx_b, rbmp_lexrx_c, rbmp_lexrx_d, rbmp_lexrx_f, spl_b_lexrx_a, spl_b_lexrx_b, spl_b_lexrx_c, spl_b_lexrx_d, spl_b_lexrx_e, nto_b_tw
+m3g20, bnt_b_m3g20_a, bnt_b_m3g20_b, bnt_b_m3g20_c, bnt_b_m3g20_d, bnt_b_m3g20_e, rbmp_m3g20_a, rbmp_m3g20_b, rbmp_m3g20_c, rbmp_m3g20_d, rbmp_m3g20_e, spl_b_m3g20_a, spl_b_m3g20_b, spl_b_m3g20_c, spl_b_m3g20_d, spl_b_m3g20_e, nto_b_tw
+m4comp, bnt_b_m4comp_a, bnt_b_m4comp_b, bnt_b_m4comp_c, bnt_b_m4comp_d, bnt_b_m4comp_e, rbmp_m4comp_a, rbmp_m4comp_b, rbmp_m4comp_c, rbmp_m4comp_d, rbmp_m4comp_e, spl_b_m4comp_a, spl_b_m4comp_b, spl_b_m4comp_c, spl_b_m4comp_d, spl_b_m4comp_e, nto_b_tw
+m5e60, bnt_b_m5e60_a, bnt_b_m5e60_b, bnt_b_m5e60_c, bnt_b_m5e60_d, bnt_b_m5e60_e, rbmp_m5e60_a, rbmp_m5e60_b, rbmp_m5e60_c, rbmp_m5e60_d, rbmp_m5e60_f, spl_b_m5e60_a, spl_b_m5e60_b, spl_b_m5e60_c, spl_b_m5e60_d, spl_b_m5e60_e, nto_b_tw
+m5f90, bnt_b_m5f90_a, bnt_b_m5f90_b, bnt_b_m5f90_c, bnt_b_m5f90_d, bnt_b_m5f90_e, rbmp_m5f90_a, rbmp_m5f90_b, rbmp_m5f90_c, rbmp_m5f90_d, rbmp_m5f90_f, spl_b_m5f90_a, spl_b_m5f90_b, spl_b_m5f90_c, spl_b_m5f90_d, spl_b_m5f90_e, nto_b_tw
+maybach, bnt_b_maybach_a, bnt_b_maybach_b, bnt_b_maybach_c, bnt_b_maybach_d, bnt_b_maybach_e, rbmp_maybach_a, rbmp_maybach_b, rbmp_maybach_c, rbmp_maybach_d, rbmp_maybach_f, spl_b_maybach_a, spl_b_maybach_b, spl_b_maybach_c, spl_b_maybach_d, spl_b_maybach_e, nto_b_tw
+mbamggt, bnt_b_mbamggt_a, bnt_b_mbamggt_b, bnt_b_mbamggt_c, bnt_b_mbamggt_d, bnt_b_mbamggt_e, rbmp_mbamggt_a, rbmp_mbamggt_b, rbmp_mbamggt_c, rbmp_mbamggt_d, rbmp_mbamggt_f, spl_b_mbamggt_a, spl_b_mbamggt_b, spl_b_mbamggt_c, spl_b_mbamggt_d, spl_b_mbamggt_e, nto_b_tw
+mbe500, bnt_b_mbe500_a
+mbe55, bnt_b_mbe55_a
+mbw221, bnt_b_mbw221_a
+merss63, rbmp_merss63_a, rbmp_merss63_b, rbmp_merss63_c, rbmp_merss63_d, rbmp_merss63_f, spl_b_merss63_a, spl_b_merss63_b, spl_b_merss63_c, spl_b_merss63_d, spl_b_merss63_e, nto_b_tw
+modelx, bnt_b_modelx_a
+mustang, bnt_b_mustang_a, bnt_b_mustang_b, bnt_b_mustang_c, bnt_b_mustang_d, bnt_b_mustang_e, rbmp_mustang_a, rbmp_mustang_b, rbmp_mustang_c, rbmp_mustang_d, rbmp_mustang_f, spl_b_mustang_a, spl_b_mustang_b, spl_b_mustang_c, spl_b_mustang_d, spl_b_mustang_e, nto_b_tw
+nisleaf, bnt_b_nisleaf_a
+nssilvia, bnt_b_nssilvia_a
+one77, bnt_b_one77_a, bnt_b_one77_b, bnt_b_one77_c, bnt_b_one77_d, bnt_b_one77_e, spl_b_one77_a, spl_b_one77_b, spl_b_one77_c, spl_b_one77_d, spl_b_one77_e, nto_b_tw
+optima, bnt_b_optima_a, bnt_b_optima_b, bnt_b_optima_c, bnt_b_optima_d, bnt_b_optima_e, rbmp_optima_a, rbmp_optima_b, rbmp_optima_c, rbmp_optima_d, rbmp_optima_f, spl_b_optima_a, spl_b_optima_b, spl_b_optima_c, spl_b_optima_d, spl_b_optima_e, nto_b_tw
+panamera, bnt_b_panamera_a, bnt_b_panamera_b, bnt_b_panamera_c, bnt_b_panamera_d, bnt_b_panamera_e, rbmp_panamera_a, rbmp_panamera_b, rbmp_panamera_c, rbmp_panamera_d, rbmp_panamera_f, spl_b_panamera_a, spl_b_panamera_b, spl_b_panamera_c, spl_b_panamera_d, spl_b_panamera_e, nto_b_tw
+passat, bnt_b_passat_a, bnt_b_passat_b, bnt_b_passat_c, bnt_b_passat_d, bnt_b_passat_e, rbmp_passat_a, rbmp_passat_b, rbmp_passat_c, rbmp_passat_d, spl_b_passat_a, spl_b_passat_b, spl_b_passat_c, spl_b_passat_d, spl_b_passat_e, nto_b_tw
+pcayenne, bnt_b_pcayenne_a, bnt_b_pcayenne_b, bnt_b_pcayenne_c, bnt_b_pcayenne_d, bnt_b_pcayenne_e, rbmp_pcayenne_a, rbmp_pcayenne_b, rbmp_pcayenne_c, rbmp_pcayenne_d, rbmp_pcayenne_f, spl_b_pcayenne_a, spl_b_pcayenne_b, spl_b_pcayenne_c, spl_b_pcayenne_d, spl_b_pcayenne_e, nto_b_tw
+porche911, bnt_b_porche9_a, bnt_b_porche9_b, bnt_b_porche9_c, bnt_b_porche9_d, bnt_b_porche9_e, rbmp_porche9_a, rbmp_porche9_b, rbmp_porche9_c, rbmp_porche9_d, rbmp_porche9_f, spl_b_porche9_a, spl_b_porche9_b, spl_b_porche9_c, spl_b_porche9_d, spl_b_porche9_e, nto_b_tw
+rangrove, bnt_b_rangrove_a, bnt_b_rangrove_b, bnt_b_rangrove_c, bnt_b_rangrove_d, bnt_b_rangrove_e, rbmp_rangrove_a, rbmp_rangrove_b, rbmp_rangrove_c, rbmp_rangrove_d, rbmp_rangrove_f, spl_b_rangrove_a, spl_b_rangrove_b, spl_b_rangrove_c, spl_b_rangrove_d, spl_b_rangrove_e, nto_b_tw
+rptr, bnt_b_rptr_a, bnt_b_rptr_b, bnt_b_rptr_c, bnt_b_rptr_d, bnt_b_rptr_e, rbmp_rptr_a, rbmp_rptr_b, rbmp_rptr_c, rbmp_rptr_d, rbmp_rptr_e, nto_b_tw
+rr, bnt_b_rr_a, bnt_b_rr_b, bnt_b_rr_c, bnt_b_rr_d, bnt_b_rr_e, rbmp_rr_a, rbmp_rr_b, rbmp_rr_c, rbmp_rr_d, rbmp_rr_f, spl_b_rr_a, spl_b_rr_b, spl_b_rr_c, spl_b_rr_d, spl_b_rr_e, nto_b_tw
+rs6, bnt_b_rs6_a, bnt_b_rs6_b, bnt_b_rs6_c, bnt_b_rs6_d, bnt_b_rs6_e, rbmp_rs6_a, rbmp_rs6_b, rbmp_rs6_c, rbmp_rs6_d, rbmp_rs6_f, spl_b_rs6_a, spl_b_rs6_b, spl_b_rs6_c, spl_b_rs6_d, spl_b_rs6_e, nto_b_tw
+s500w223, bnt_b_s500w223_a, bnt_b_s500w223_b, bnt_b_s500w223_c, bnt_b_s500w223_d, bnt_b_s500w223_e, rbmp_s500w223_a, rbmp_s500w223_b, rbmp_s500w223_c, rbmp_s500w223_d, rbmp_s500w223_e, spl_b_s500w223_a, spl_b_s500w223_b, spl_b_s500w223_c, spl_b_s500w223_d, spl_b_s500w223_e, nto_b_tw
+sbforest, bnt_b_sbforest_a
+sblegasy, bnt_b_sblegasy_a
+slr, bnt_b_slr_a, bnt_b_slr_b, bnt_b_slr_c, bnt_b_slr_d, bnt_b_slr_e, rbmp_slr_a, rbmp_slr_b, rbmp_slr_c, rbmp_slr_d, rbmp_slr_e, spl_b_slr_a, spl_b_slr_b, spl_b_slr_c, spl_b_slr_d, spl_b_slr_e, nto_b_tw
+sonata, bnt_b_sonata_a
+sportage, bnt_b_sportage_a, bnt_b_sportage_b, bnt_b_sportage_c, bnt_b_sportage_d, bnt_b_sportage_e, rbmp_sportage_a, rbmp_sportage_b, rbmp_sportage_c, rbmp_sportage_d, rbmp_sportage_f, spl_b_sportage_a, spl_b_sportage_b, spl_b_sportage_c, spl_b_sportage_d, spl_b_sportage_e, nto_b_tw
+subbrzz, bnt_b_subbrzz_a, bnt_b_subbrzz_b, bnt_b_subbrzz_c, bnt_b_subbrzz_d, bnt_b_subbrzz_e, rbmp_subbrzz_a, rbmp_subbrzz_b, rbmp_subbrzz_c, rbmp_subbrzz_d, rbmp_subbrzz_e, spl_b_subbrzz_a, spl_b_subbrzz_b, spl_b_subbrzz_c, spl_b_subbrzz_d, spl_b_subbrzz_e, nto_b_tw
+swcross, bnt_b_swcross_a, bnt_b_swcross_b, bnt_b_swcross_c, bnt_b_swcross_d, bnt_b_swcross_e, rbmp_swcross_a, rbmp_swcross_b, rbmp_swcross_c, rbmp_swcross_d, rbmp_swcross_e, spl_b_swcross_a, spl_b_swcross_b, spl_b_swcross_c, spl_b_swcross_d, spl_b_swcross_e, nto_b_tw
+taycan, bnt_b_taycan_a, bnt_b_taycan_b, bnt_b_taycan_c, bnt_b_taycan_d, bnt_b_taycan_e, spl_b_taycan_a, spl_b_taycan_b, spl_b_taycan_c, spl_b_taycan_d, spl_b_taycan_e, nto_b_tw
+tuareg, bnt_b_tuareg_a, bnt_b_tuareg_b, bnt_b_tuareg_c, bnt_b_tuareg_d, bnt_b_tuareg_e, rbmp_tuareg_a, rbmp_tuareg_b, rbmp_tuareg_c, rbmp_tuareg_d, rbmp_tuareg_f, spl_b_tuareg_a, spl_b_tuareg_b, spl_b_tuareg_c, spl_b_tuareg_d, spl_b_tuareg_e, nto_b_tw
+twfer, bnt_b_twfer_a, bnt_b_twfer_b, bnt_b_twfer_c, bnt_b_twfer_d, bnt_b_twfer_e, rbmp_twfer_a, rbmp_twfer_b, rbmp_twfer_c, rbmp_twfer_d, rbmp_twfer_e, nto_b_tw
+uazpatriot, bnt_b_uaz_a, bnt_b_uaz_b, bnt_b_uaz_c, bnt_b_uaz_d, bnt_b_uaz_e, rbmp_uaz_a, rbmp_uaz_b, rbmp_uaz_c, rbmp_uaz_d, rbmp_uaz_e, spl_b_uaz_a, spl_b_uaz_b, spl_b_uaz_c, spl_b_uaz_d, spl_b_uaz_e, nto_b_tw
+urus, bnt_b_urus_a, bnt_b_urus_b, bnt_b_urus_c, bnt_b_urus_d, bnt_b_urus_e, rbmp_urus_a, rbmp_urus_b, rbmp_urus_c, rbmp_urus_d, rbmp_urus_f, spl_b_urus_a, spl_b_urus_b, spl_b_urus_c, spl_b_urus_d, spl_b_urus_e, nto_b_tw
+volga, bnt_b_volga_a, bnt_b_volga_b, bnt_b_volga_c, bnt_b_volga_d, bnt_b_volga_e, rbmp_volga_a, rbmp_volga_b, rbmp_volga_c, rbmp_volga_d, rbmp_volga_e, spl_b_volga_a, spl_b_volga_b, spl_b_volga_c, spl_b_volga_d, spl_b_volga_e, nto_b_tw
+volvov, bnt_b_volvov_a, bnt_b_volvov_b, bnt_b_volvov_c, bnt_b_volvov_d, bnt_b_volvov_e, rbmp_volvov_a, rbmp_volvov_b, rbmp_volvov_c, rbmp_volvov_d, rbmp_volvov_f, spl_b_volvov_a, spl_b_volvov_b, spl_b_volvov_c, spl_b_volvov_d, spl_b_volvov_e, nto_b_tw
+volvoxc, bnt_b_volvoxc_b, bnt_b_volvoxc_c, bnt_b_volvoxc_d, bnt_b_volvoxc_e, rbmp_volvoxc_a, rbmp_volvoxc_b, rbmp_volvoxc_c, rbmp_volvoxc_d, rbmp_volvoxc_f, spl_b_volvoxc_a, spl_b_volvoxc_b, spl_b_volvoxc_c, spl_b_volvoxc_d, spl_b_volvoxc_e, nto_b_tw
+xclass, bnt_b_xclass_a, bnt_b_xclass_b, bnt_b_xclass_c, bnt_b_xclass_d, bnt_b_xclass_e, rbmp_xclass_a, rbmp_xclass_b, rbmp_xclass_c, rbmp_xclass_d, rbmp_xclass_e, nto_b_tw
+xfrr2012, bnt_b_xfrr2012_a, bnt_b_xfrr2012_b, bnt_b_xfrr2012_c, bnt_b_xfrr2012_d, bnt_b_xfrr2012_e, rbmp_xfrr2012_a, rbmp_xfrr2012_b, rbmp_xfrr2012_c, rbmp_xfrr2012_d, rbmp_xfrr2012_e, spl_b_xfrr2012_a, spl_b_xfrr2012_b, spl_b_xfrr2012_c, spl_b_xfrr2012_d, nto_b_tw
+e63, bnt_b_e63_a, bnt_b_e63_b, bnt_b_e63_c, bnt_b_e63_d, bnt_b_e63_e, rbmp_e63_a, rbmp_e63_b, rbmp_e63_c, rbmp_e63_d, rbmp_e63_f, spl_b_e63_a, spl_b_e63_b, spl_b_e63_c, spl_b_e63_d, spl_b_e63_e, nto_b_tw
+audirs5, bnt_b_audirs5_a, bnt_b_audirs5_b, bnt_b_audirs5_c, bnt_b_audirs5_d, bnt_b_audirs5_e, rbmp_audirs5_a, rbmp_audirs5_b, rbmp_audirs5_c, rbmp_audirs5_d, rbmp_audirs5_e, spl_b_audirs5_a, spl_b_audirs5_b, spl_b_audirs5_c, spl_b_audirs5_d, spl_b_audirs5_e, nto_b_tw
+aus4, bnt_b_aus4_a, bnt_b_aus4_b, bnt_b_aus4_c, bnt_b_aus4_d, bnt_b_aus4_e, rbmp_aus4_a, rbmp_aus4_b, rbmp_aus4_c, rbmp_aus4_d, rbmp_aus4_e, spl_b_aus4_a, spl_b_aus4_b, spl_b_aus4_c, spl_b_aus4_d, spl_b_aus4_e, nto_b_tw
+bmw4s, bnt_b_bmw4s_a, bnt_b_bmw4s_b, bnt_b_bmw4s_c, bnt_b_bmw4s_d, bnt_b_bmw4s_e, rbmp_bmw4s_a, rbmp_bmw4s_b, rbmp_bmw4s_c, rbmp_bmw4s_d, rbmp_bmw4s_e, spl_b_bmw4s_a, spl_b_bmw4s_b, spl_b_bmw4s_c, spl_b_bmw4s_d, spl_b_bmw4s_e, nto_b_tw
+cadesc, bnt_b_cadesc_a, bnt_b_cadesc_b, bnt_b_cadesc_c, bnt_b_cadesc_d, bnt_b_cadesc_e, rbmp_cadesc_a, rbmp_cadesc_b, rbmp_cadesc_c, rbmp_cadesc_d, rbmp_cadesc_e, spl_b_cadesc_a, spl_b_cadesc_b, spl_b_cadesc_c, spl_b_cadesc_d, spl_b_cadesc_e, nto_b_tw
+chaser, bnt_b_chaser_a, bnt_b_chaser_b, bnt_b_chaser_c, bnt_b_chaser_d, bnt_b_chaser_e, rbmp_chaser_a, rbmp_chaser_b, rbmp_chaser_c, rbmp_chaser_d, rbmp_chaser_e, spl_b_chaser_a, spl_b_chaser_b, spl_b_chaser_c, spl_b_chaser_d, spl_b_chaser_e, nto_b_tw
+cybertr, spl_b_cybertr_a, spl_b_cybertr_b, spl_b_cybertr_c, spl_b_cybertr_d, spl_b_cybertr_e, nto_b_tw
+dviper, bnt_b_dviper_a, bnt_b_dviper_b, bnt_b_dviper_c, bnt_b_dviper_d, bnt_b_dviper_e, rbmp_dviper_a, rbmp_dviper_b, rbmp_dviper_c, rbmp_dviper_d, rbmp_dviper_e, spl_b_dviper_a, spl_b_dviper_b, spl_b_dviper_c, spl_b_dviper_d, spl_b_dviper_e, nto_b_tw
+evoix, bnt_b_evoix_a, bnt_b_evoix_b, bnt_b_evoix_c, bnt_b_evoix_d, bnt_b_evoix_e, rbmp_evoix_a, rbmp_evoix_b, rbmp_evoix_c, rbmp_evoix_d, rbmp_evoix_e, spl_b_evoix_a, spl_b_evoix_b, spl_b_evoix_c, spl_b_evoix_d, spl_b_evoix_e, nto_b_tw
+evox, bnt_b_evox_a, bnt_b_evox_b, bnt_b_evox_c, bnt_b_evox_d, bnt_b_evox_e, rbmp_evox_a, rbmp_evox_b, rbmp_evox_c, rbmp_evox_d, rbmp_evox_e, spl_b_evox_a, spl_b_evox_b, spl_b_evox_c, spl_b_evox_d, spl_b_evox_e, nto_b_tw
+fordgt, bnt_b_fordgt_a, bnt_b_fordgt_b, bnt_b_fordgt_c, bnt_b_fordgt_d, bnt_b_fordgt_e, rbmp_fordgt_a, rbmp_fordgt_b, rbmp_fordgt_c, rbmp_fordgt_d, rbmp_fordgt_e, spl_b_fordgt_a, spl_b_fordgt_b, spl_b_fordgt_c, spl_b_fordgt_d, spl_b_fordgt_e, nto_b_tw
+impla64, bnt_b_impala64_a, bnt_b_impala64_b, bnt_b_impala64_c, bnt_b_impala64_d, bnt_b_impala64_e, rbmp_impala64_a, rbmp_impala64_b, rbmp_impala64_c, rbmp_impala64_d, rbmp_impala64_e, spl_b_impala64_a, spl_b_impala64_b, spl_b_impala64_c, spl_b_impala64_d, spl_b_impala64_e, nto_b_tw
+impla67, bnt_b_impala67_a, bnt_b_impala67_b, bnt_b_impala67_c, bnt_b_impala67_d, bnt_b_impala67_e, rbmp_impla67_a, rbmp_impla67_b, rbmp_impla67_c, rbmp_impla67_d, rbmp_impla67_e, spl_b_impala67_a, spl_b_impala67_b, spl_b_impala67_c, spl_b_impala67_d, spl_b_impala67_e, nto_b_tw
+macmp4, bnt_b_macmp4_a, bnt_b_macmp4_b, bnt_b_macmp4_c, bnt_b_macmp4_d, bnt_b_macmp4_e, rbmp_macmp4_a, rbmp_macmp4_b, rbmp_macmp4_c, rbmp_macmp4_d, rbmp_macmp4_e, spl_b_macmp4_a, spl_b_macmp4_b, spl_b_macmp4_c, spl_b_macmp4_d, spl_b_macmp4_e, nto_b_tw
+mercls, bnt_b_mercls_a, bnt_b_mercls_b, bnt_b_mercls_c, bnt_b_mercls_d, bnt_b_mercls_e, rbmp_mercls_a, rbmp_mercls_b, rbmp_mercls_c, rbmp_mercls_d, rbmp_mercls_e, spl_b_mercls_a, spl_b_mercls_b, spl_b_mercls_c, spl_b_mercls_d, spl_b_mercls_e, nto_b_tw
+mersgl, bnt_b_mersgl_a, bnt_b_mersgl_b, bnt_b_mersgl_c, bnt_b_mersgl_d, bnt_b_mersgl_e, rbmp_mersgl_a, rbmp_mersgl_b, rbmp_mersgl_c, rbmp_mersgl_d, rbmp_mersgl_e, spl_b_mersgl_a, spl_b_mersgl_b, spl_b_mersgl_c, spl_b_mersgl_d, spl_b_mersgl_e, nto_b_tw
+modelc, bnt_b_modelc_a, bnt_b_modelc_b, bnt_b_modelc_c, bnt_b_modelc_d, bnt_b_modelc_e, spl_b_modelc_a, spl_b_modelc_b, spl_b_modelc_c, spl_b_modelc_d, spl_b_modelc_e, nto_b_tw
+phantom, bnt_b_phantom_a, bnt_b_phantom_b, bnt_b_phantom_c, bnt_b_phantom_d, bnt_b_phantom_e, rbmp_phantom_a, rbmp_phantom_b, rbmp_phantom_c, rbmp_phantom_d, rbmp_phantom_e, spl_b_phantom_a, spl_b_phantom_b, spl_b_phantom_c, spl_b_phantom_d, spl_b_phantom_e, nto_b_tw
+ttrs, bnt_b_ttrs_a, bnt_b_ttrs_b, bnt_b_ttrs_c, bnt_b_ttrs_d, bnt_b_ttrs_e, rbmp_ttrs_a, rbmp_ttrs_b, rbmp_ttrs_c, rbmp_ttrs_d, rbmp_ttrs_e, spl_b_ttrs_a, spl_b_ttrs_b, spl_b_ttrs_c, spl_b_ttrs_d, spl_b_ttrs_e, nto_b_tw
+vwpolo, bnt_b_vwpolo_a, bnt_b_vwpolo_b, bnt_b_vwpolo_c, bnt_b_vwpolo_d, bnt_b_vwpolo_e, rbmp_vwpolo_a, rbmp_vwpolo_b, rbmp_vwpolo_c, rbmp_vwpolo_d, rbmp_vwpolo_e, spl_b_vwpolo_a, spl_b_vwpolo_b, spl_b_vwpolo_c, spl_b_vwpolo_d, spl_b_vwpolo_e, nto_b_tw
+wrxsti, bnt_b_wrxsti_a, bnt_b_wrxsti_b, bnt_b_wrxsti_c, bnt_b_wrxsti_d, bnt_b_wrxsti_e, rbmp_wrxsti_a, rbmp_wrxsti_b, rbmp_wrxsti_c, rbmp_wrxsti_d, rbmp_wrxsti_e, spl_b_wrxsti_a, spl_b_wrxsti_b, spl_b_wrxsti_c, spl_b_wrxsti_d, spl_b_wrxsti_e, nto_b_tw
+amgone, rbmp_amgone_a, rbmp_amgone_b, rbmp_amgone_c, rbmp_amgone_d, rbmp_amgone_e, spl_b_amgone_a, spl_b_amgone_b, spl_b_amgone_c, spl_b_amgone_d, spl_b_amgone_e, nto_b_tw
+aveo, bnt_b_aveo_a, bnt_b_aveo_b, bnt_b_aveo_c, bnt_b_aveo_d, bnt_b_aveo_e, rbmp_aveo_a, rbmp_aveo_b, rbmp_aveo_c, rbmp_aveo_d, rbmp_aveo_e, spl_b_aveo_a, spl_b_aveo_b, spl_b_aveo_c, spl_b_aveo_d, spl_b_aveo_e, nto_b_tw
+duster, bnt_b_duster_a, bnt_b_duster_b, bnt_b_duster_c, bnt_b_duster_d, bnt_b_duster_e, rbmp_duster_a, rbmp_duster_b, rbmp_duster_c, rbmp_duster_d, rbmp_duster_e, spl_b_duster_a, spl_b_duster_b, spl_b_duster_c, spl_b_duster_d, spl_b_duster_e, nto_b_tw
+g630, bnt_b_g630_a, bnt_b_g630_b, bnt_b_g630_c, bnt_b_g630_d, bnt_b_g630_e, spl_b_g630_a, spl_b_g630_b, spl_b_g630_c, spl_b_g630_d, spl_b_g630_e, nto_b_tw
+m5cs, bnt_b_m5cs_a, bnt_b_m5cs_b, bnt_b_m5cs_c, bnt_b_m5cs_d, bnt_b_m5cs_e, rbmp_m5cs_a, rbmp_m5cs_b, rbmp_m5cs_c, rbmp_m5cs_d, rbmp_m5cs_e, spl_b_m5cs_a, spl_b_m5cs_b, spl_b_m5cs_c, spl_b_m5cs_d, spl_b_m5cs_e, nto_b_tw
+priora, bnt_b_priora_a, bnt_b_priora_b, bnt_b_priora_c, bnt_b_priora_d, bnt_b_priora_e, rbmp_priora_a, rbmp_priora_b, rbmp_priora_c, rbmp_priora_d, rbmp_priora_e, spl_b_priora_a, spl_b_priora_b, spl_b_priora_c, spl_b_priora_d, spl_b_priora_e, nto_b_tw
+quadra, bnt_b_quadra_a, bnt_b_quadra_b, bnt_b_quadra_c, bnt_b_quadra_d, bnt_b_quadra_e, nto_b_tw
+vision, spl_b_vision_a, spl_b_vision_b, spl_b_vision_c, spl_b_vision_d, spl_b_vision_e, nto_b_tw
+a45, bnt_b_a45_a, bnt_b_a45_b, bnt_b_a45_c, bnt_b_a45_d, bnt_b_a45_e, rbmp_a45_a, rbmp_a45_b, rbmp_a45_c, rbmp_a45_d, rbmp_a45_e, spl_b_a45_a, spl_b_a45_b, spl_b_a45_c, spl_b_a45_d, spl_b_a45_e, nto_b_tw
+countach, bnt_b_countach_a, bnt_b_countach_b, bnt_b_countach_c, bnt_b_countach_d, bnt_b_countach_e, rbmp_countach_a, rbmp_countach_b, rbmp_countach_c, rbmp_countach_d, rbmp_countach_e, spl_b_countach_a, spl_b_countach_b, spl_b_countach_c, spl_b_countach_d, spl_b_countach_e, nto_b_tw
+defender, bnt_b_defender_a, bnt_b_defender_b, bnt_b_defender_c, bnt_b_defender_d, bnt_b_defender_e, rbmp_defender_a, rbmp_defender_b, rbmp_defender_c, rbmp_defender_d, rbmp_defender_e, spl_b_defender_a, spl_b_defender_b, spl_b_defender_c, spl_b_defender_d, spl_b_defender_e, nto_b_tw
+gemera, bnt_b_gemera_a, bnt_b_gemera_b, bnt_b_gemera_c, bnt_b_gemera_d, bnt_b_gemera_e, nto_b_tw
+kiak7, bnt_b_kiak7_a, bnt_b_kiak7_b, bnt_b_kiak7_c, bnt_b_kiak7_d, bnt_b_kiak7_e, spl_b_kiak7_a, spl_b_kiak7_b, spl_b_kiak7_c, spl_b_kiak7_d, spl_b_kiak7_e, nto_b_tw
+lx600, bnt_b_lx600_a, bnt_b_lx600_b, bnt_b_lx600_c, bnt_b_lx600_d, bnt_b_lx600_e, rbmp_lx600_a, rbmp_lx600_b, rbmp_lx600_c, rbmp_lx600_d, rbmp_lx600_e, spl_b_lx600_a, spl_b_lx600_b, spl_b_lx600_c, spl_b_lx600_d, spl_b_lx600_e, nto_b_tw
+mach, bnt_b_mach_a, bnt_b_mach_b, bnt_b_mach_c, bnt_b_mach_d, bnt_b_mach_e, spl_b_mach_a, spl_b_mach_b, spl_b_mach_c, spl_b_mach_d, spl_b_mach_e, nto_b_tw
+mazda6, bnt_b_mazda6_a, bnt_b_mazda6_b, bnt_b_mazda6_c, bnt_b_mazda6_d, bnt_b_mazda6_e, rbmp_mazda6_a, rbmp_mazda6_b, rbmp_mazda6_c, rbmp_mazda6_d, rbmp_mazda6_e, spl_b_mazda6_a, spl_b_mazda6_b, spl_b_mazda6_c, spl_b_mazda6_d, spl_b_mazda6_e, nto_b_tw
+qashai, bnt_b_qashai_a, bnt_b_qashai_b, bnt_b_qashai_c, bnt_b_qashai_d, bnt_b_qashai_e, rbmp_qashai_a, rbmp_qashai_b, rbmp_qashai_c, rbmp_qashai_d, rbmp_qashai_e, spl_b_qashai_a, spl_b_qashai_b, spl_b_qashai_c, spl_b_qashai_d, spl_b_qashai_e, nto_b_tw
+santafe, bnt_b_santafe_a, bnt_b_santafe_b, bnt_b_santafe_c, bnt_b_santafe_d, bnt_b_santafe_e, rbmp_santafe_a, rbmp_santafe_b, rbmp_santafe_c, rbmp_santafe_d, rbmp_santafe_e, spl_b_santafe_a, spl_b_santafe_b, spl_b_santafe_c, spl_b_santafe_d, spl_b_santafe_e, nto_b_tw
+scirroco, bnt_b_scirroco_a, bnt_b_scirroco_b, bnt_b_scirroco_c, bnt_b_scirroco_d, bnt_b_scirroco_e, rbmp_scirroco_a, rbmp_scirroco_b, rbmp_scirroco_c, rbmp_scirroco_d, rbmp_scirroco_e, spl_b_scirroco_a, spl_b_scirroco_b, spl_b_scirroco_c, spl_b_scirroco_d, spl_b_scirroco_e, nto_b_tw
+toyotagr, bnt_b_toyotagr_a, bnt_b_toyotagr_b, bnt_b_toyotagr_c, bnt_b_toyotagr_d, bnt_b_toyotagr_e, rbmp_toyotagr_a, rbmp_toyotagr_b, rbmp_toyotagr_c, rbmp_toyotagr_d, rbmp_toyotagr_e, spl_b_toyotagr_a, spl_b_toyotagr_b, spl_b_toyotagr_c, spl_b_toyotagr_d, spl_b_toyotagr_e, nto_b_tw
+velar, bnt_b_velar_a, bnt_b_velar_b, bnt_b_velar_c, bnt_b_velar_d, bnt_b_velar_e, rbmp_velar_a, rbmp_velar_b, rbmp_velar_c, rbmp_velar_d, rbmp_velar_e, spl_b_velar_a, spl_b_velar_b, spl_b_velar_c, spl_b_velar_d, spl_b_velar_e, nto_b_tw
+
+#fcr900, exh_bk_fc_sa, exh_bk_fc_ta, exh_bk_fc_tc, misc_a_bk_fc1, misc_a_bk_fc2, nto_bk_s, nto_bk_tw
+#bf400, exh_bk_bf_sa, exh_bk_bf_ta, exh_bk_bf_tc, misc_a_bk_bf1, misc_a_bk_bf2, nto_bk_s, nto_bk_tw
+#nrg500, exh_bk_nr_sa, exh_bk_nr_ta, exh_bk_nr_tc, misc_a_bk_nr1, misc_a_bk_nr2, nto_bk_s, nto_bk_tw
+#pcj600, exh_bk_pc_sa, exh_bk_pc_ta, exh_bk_pc_tc, misc_a_bk_pc1, misc_a_bk_pc2, nto_bk_s, nto_bk_tw
+
+
+end
+
+
+wheel
+
+0, wheel_gn1, wheel_gn2, wheel_gn3, wheel_gn4, wheel_gn5, wheel_sr3, wheel_sr4, wheel_lr3, wheel_lr4, wheel_or1
+1, wheel_sr1, wheel_sr2, wheel_sr3, wheel_sr4, wheel_sr5, wheel_sr6, wheel_lr1, wheel_lr2, wheel_gn1, wheel_gn2
+2, wheel_lr1, wheel_lr2, wheel_lr3, wheel_lr4, wheel_lr5, wheel_sr1, wheel_sr2, wheel_gn4, wheel_gn5
+3, wheel_g1, wheel_g2, wheel_g3, wheel_g4, wheel_g5, wheel_s3, wheel_s4, wheel_l3, wheel_l4, wheel_r1
+4, wheel_s1, wheel_s2, wheel_s3, wheel_s4, wheel_s5, wheel_s6, wheel_l1, wheel_l2, wheel_g1, wheel_g2
+5, wheel_l1, wheel_l2, wheel_l3, wheel_l4, wheel_l5, wheel_s1, wheel_s2, wheel_g4, wheel_g5
+
+
+
+end
